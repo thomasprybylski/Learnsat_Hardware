@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2S2P_batt")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/2S2P_batt.SchLib")(options "")(descr ""))
+  (lib (name "DF13C-2P-1.25V(21)")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/DF13C-2P-1.25V(21).SchLib")(options "")(descr ""))
+  (lib (name "FQD13N06LTM")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/FQD13N06LTM.SchLib")(options "")(descr ""))
+  (lib (name "INA219")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/INA219.SchLib")(options "")(descr ""))
+  (lib (name "PE1206DRM470R025L")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/PE1206DRM470R025L.SchLib")(options "")(descr ""))
+  (lib (name "SSQ-126-22-G-D")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/SSQ-126-22-G-D.SchLib")(options "")(descr ""))
+  (lib (name "Y1625900R000T9W")(type "Altium")(uri "/Users/thomasprybylski/Downloads/LearnSAT-BoBa 2/SnapDocs/Y1625900R000T9W.SchLib")(options "")(descr ""))
+  (lib (name "LearnSAT-BoBa-altium-import")(type "KiCad")(uri "${KIPRJMOD}/LearnSAT-BoBa-altium-import.kicad_sym")(options "")(descr ""))
+)
