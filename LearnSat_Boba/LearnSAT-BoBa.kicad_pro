@@ -467,25 +467,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.3,
-        "wire_width": 6
-      },
-      {
-        "bus_width": 12,
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "All Nets",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -615,7 +597,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "empty.kicad_wks",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -627,53 +609,6 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [
-    [
-      "071a4c19-1639-4dc5-97ed-b85c6e3f55da",
-      ""
-    ],
-    [
-      "c81fa03f-d3c8-4d26-8574-55bc24a29acb",
-      ""
-    ],
-    [
-      "d04aff3a-c59c-4313-bd7b-1b4e4207d887",
-      "IN-A"
-    ],
-    [
-      "1d0c182c-38c3-4e1c-81de-ca211c9aad59",
-      "IN-G"
-    ],
-    [
-      "1e4e77ec-d2ea-40a8-9d11-cfaca0dfb30f",
-      "IN-B"
-    ],
-    [
-      "6698073b-b4b4-450d-a6a5-9da9acc4d57e",
-      "IN-F"
-    ],
-    [
-      "ec661340-d146-44df-8377-f9da7f629d9f",
-      "IN-C"
-    ],
-    [
-      "bc2de24d-860d-4190-a38a-cd2eb061a7f8",
-      "IN-E"
-    ],
-    [
-      "ae07f74f-c44f-45f4-9cfa-dd7ae4e9cc9b",
-      ""
-    ],
-    [
-      "6153c9d6-70ee-4150-b9cb-e0a95cf5e93f",
-      ""
-    ],
-    [
-      "8843c857-7aad-468d-9ddd-fee942940e57",
-      "Root"
-    ]
-  ],
-  "text_variables": {
-    "SHEETTOTAL": "4"
-  }
+  "sheets": [],
+  "text_variables": {}
 }
