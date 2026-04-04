@@ -3717,7 +3717,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 109.22) (xy 66.04 109.22)
+			(xy 59.69 109.22) (xy 66.04 109.22)
 		)
 		(stroke
 			(width 0)
@@ -25277,26 +25277,6 @@
 			"////////////////////////////////////"
 		)
 	)
-	(label "12V"
-		(at 60.96 109.22 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6a1e810d-a4e9-4783-b862-14f75f3fd30d")
-	)
-	(label "SCL"
-		(at 152.4 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "76521075-b1b1-489e-b6a1-aacc55ae4359")
-	)
 	(label "SDA"
 		(at 152.4 66.04 0)
 		(effects
@@ -25327,15 +25307,77 @@
 		)
 		(uuid "dd909a0c-166d-49b9-b63e-fb9d91a9d8a8")
 	)
-	(label "12V_EnableP"
-		(at 170.18 149.86 0)
+	(global_label "SCL"
+		(shape input)
+		(at 157.48 60.96 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "f96e8c4f-96ce-444f-a19b-d52dc5fdc4fe")
+		(uuid "8ee299e6-3b17-4a58-ae90-7d628d686802")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 163.9728 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 83.82 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aaece1d8-e19d-402d-b4c2-0d651150f057")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 77.3272 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "SDA"
+		(shape input)
+		(at 157.48 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bd723cf6-a523-47bd-9263-a8e4756bb9c5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 164.0333 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(global_label "12V_EnableP"
 		(shape input)
@@ -25358,6 +25400,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape input)
+		(at 59.69 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dc718857-38a3-49a7-9d74-e248e9bc4602")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.1972 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)

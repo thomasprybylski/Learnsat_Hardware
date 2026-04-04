@@ -1711,28 +1711,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "VBatt Primary"
-		(exclude_from_sim no)
-		(at 30.48 121.92 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "152bd8fb-f16a-4fed-a34f-e9ff68a9dd67")
-	)
-	(text "VBatt Primary"
-		(exclude_from_sim no)
-		(at 25.4 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a3e4e2b-b379-4b6f-8ee8-8476d0736036")
-	)
 	(junction
 		(at 55.88 144.78)
 		(diameter 0)
