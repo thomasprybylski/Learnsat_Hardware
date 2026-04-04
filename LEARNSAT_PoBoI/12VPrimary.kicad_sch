@@ -3334,12 +3334,6 @@
 		(uuid "29d4fb41-1e0b-4655-bbf3-2b325f10d8e5")
 	)
 	(junction
-		(at 167.64 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "35e15a2f-badf-4f7c-882a-358b17dcc314")
-	)
-	(junction
 		(at 99.06 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3422,6 +3416,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c3831edd-23a1-4057-831b-bd5d01fdd2fa")
+	)
+	(junction
+		(at 167.64 149.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d06b1941-a53d-4a18-b931-fd770fb26b26")
 	)
 	(junction
 		(at 149.86 165.1)
@@ -3907,7 +3907,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 149.86) (xy 180.34 149.86)
+			(xy 167.64 149.86) (xy 182.88 149.86)
 		)
 		(stroke
 			(width 0)
@@ -25328,7 +25328,7 @@
 		(uuid "dd909a0c-166d-49b9-b63e-fb9d91a9d8a8")
 	)
 	(label "12V_EnableP"
-		(at 167.64 149.86 0)
+		(at 170.18 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -25336,6 +25336,30 @@
 			(justify left bottom)
 		)
 		(uuid "f96e8c4f-96ce-444f-a19b-d52dc5fdc4fe")
+	)
+	(global_label "12V_EnableP"
+		(shape input)
+		(at 182.88 149.86 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce0dc5ae-fbea-49b5-b584-c10e7b7d3eda")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 197.9602 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "UGA SSRL Hardware Team:root_0_94c330ae140e2337d879337fe7aaeec_UGA SSRL Hardware Team")
@@ -26559,7 +26583,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "51ff1d40-5b5e-4829-96e9-72732f72ae68")
-		(property "Reference" "Q?1"
+		(property "Reference" "Q12"
 			(at 160.02 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26803,7 +26827,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
-					(reference "Q?1")
+					(reference "Q12")
 					(unit 1)
 				)
 			)
