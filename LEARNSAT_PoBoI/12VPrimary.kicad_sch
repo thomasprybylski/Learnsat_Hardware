@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "bf9d4bcd-4913-4009-ac7b-10c7d07b798d")
 	(paper "A")
 	(lib_symbols
@@ -12,8 +12,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -22,6 +26,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -30,38 +36,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "General Purpose Thick Film Chip Resistor, 1206, 25mΩ, 1%, 0.5W"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-CSR1206-IPC_C*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_0_1029c3af85768c4190bb7ad29bc67b5_Altium Content Vault_1_0"
@@ -219,8 +233,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -229,6 +247,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -237,38 +257,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Zener Voltage Regulator, 300 mW, 2-Pin SOD-323, Pb-Free, Tape and Reel"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*ONSC-SOD-323-2-477-02_V*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_ONSC-K1A2-2_Altium Content Vault_1_0"
@@ -336,21 +364,27 @@
 			(embedded_fonts no)
 		)
 		(symbol "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND"
-			(power)
+			(power global)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#PWR"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Value" "GND"
 				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -359,38 +393,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Power symbol creates a global label with name 'GND'"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_keywords" "power-flag"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "GND_POWER_GROUND_0_0"
@@ -480,8 +522,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -490,6 +536,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -498,38 +546,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Switching Controller, CMOS, PQCC12"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-UD-12-05-08-1855-IPC_A*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_0_94c330ae140e2337d879337fe7aaeec_UGA SSRL Hardware Team_1_0"
@@ -546,16 +602,16 @@
 					)
 				)
 				(pin input line
-					(at 0 0 0)
+					(at 40.64 -15.24 180)
 					(length 5.08)
-					(name "IN"
+					(name "~{SHDN}"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "12"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -617,17 +673,35 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -22.86 0)
+				(pin power_in line
+					(at 40.64 -27.94 180)
 					(length 5.08)
-					(name "SENSE"
+					(name "GNDSW"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "11"
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 40.64 -25.4 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -636,16 +710,34 @@
 					)
 				)
 				(pin passive line
-					(at 40.64 0 180)
+					(at 40.64 -10.16 180)
 					(length 5.08)
-					(name "GATE"
+					(name "STATUS"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "10"
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 40.64 -20.32 180)
+					(length 5.08)
+					(name "TIMER"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -672,34 +764,16 @@
 					)
 				)
 				(pin passive line
-					(at 40.64 -10.16 180)
+					(at 40.64 0 180)
 					(length 5.08)
-					(name "STATUS"
+					(name "GATE"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 40.64 -15.24 180)
-					(length 5.08)
-					(name "~{SHDN}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -708,16 +782,16 @@
 					)
 				)
 				(pin passive line
-					(at 40.64 -20.32 180)
+					(at 0 -22.86 0)
 					(length 5.08)
-					(name "TIMER"
+					(name "SENSE"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "8"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -725,35 +799,17 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 40.64 -25.4 180)
+				(pin input line
+					(at 0 0 0)
 					(length 5.08)
-					(name "GND"
+					(name "IN"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 40.64 -27.94 180)
-					(length 5.08)
-					(name "GNDSW"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -789,8 +845,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -799,6 +859,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -807,38 +869,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.18uF, Surface Mount, 0805"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-C0805C-DN-IPC_A*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_0_CAP-NP-2_UGA SSRL Hardware Team_1_0"
@@ -933,8 +1003,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -943,6 +1017,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -951,38 +1027,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Power Field-Effect Transistor, 11.6A I(D), 30V, 0.0145ohm, 1-Element, N-Channel, Silicon, Metal-oxide Semiconductor FET"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*SI5418DU-T1-GE3-Footprint-1*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_0_SI5418DU-T1-GE3-Symbol-1_UGA SSRL Hardware Team_1_0"
@@ -1185,8 +1269,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1195,6 +1283,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1203,38 +1293,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Power Supply Support Circuit, Fixed, 2 Channel, 2V, PDSO8"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-DCN0008A-IPC_A*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_0_e16934b8ef90d0e345b266f0ae9cd81_UGA SSRL Hardware Team_1_0"
@@ -1248,24 +1346,6 @@
 					)
 					(fill
 						(type background)
-					)
-				)
-				(pin power_in line
-					(at 0 0 0)
-					(length 5.08)
-					(name "VS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 				(pin passive line
@@ -1297,6 +1377,42 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 30.48 -15.24 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 0 0)
+					(length 5.08)
+					(name "VS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1376,24 +1492,6 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 30.48 -15.24 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(embedded_fonts no)
 		)
@@ -1404,8 +1502,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1414,6 +1516,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1422,38 +1526,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*CAPC1608X90X40LL10T20*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_1_CAP-NP-2_UGA SSRL Hardware Team_1_0"
@@ -1506,6 +1618,24 @@
 					)
 				)
 				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
 					(at 0 7.62 270)
 					(length 2.54)
 					(name "2"
@@ -1521,6 +1651,96 @@
 								(size 1.27 1.27)
 							)
 						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "UGA SSRL Hardware Team:root_1_RES-2_UGA SSRL Hardware Team_0"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Chip Resistor, 10 Ohms, +/-1 %, 63 mW, -55 to 155 degC, 0402"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "*RESC0402(1005)_L*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "root_1_RES-2_UGA SSRL Hardware Team_0_1_0"
+				(polyline
+					(pts
+						(xy 0 10.16) (xy -0.762 9.398) (xy 0 8.636) (xy 0.762 7.874) (xy -0.762 6.35) (xy 0.762 4.826)
+						(xy -0.762 3.302) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(pin passive line
@@ -1539,82 +1759,6 @@
 								(size 1.27 1.27)
 							)
 						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "UGA SSRL Hardware Team:root_1_RES-2_UGA SSRL Hardware Team_0"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Chip Resistor, 10 Ohms, +/-1 %, 63 mW, -55 to 155 degC, 0402"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "*RESC0402(1005)_L*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "root_1_RES-2_UGA SSRL Hardware Team_0_1_0"
-				(polyline
-					(pts
-						(xy 0 10.16) (xy -0.762 9.398) (xy 0 8.636) (xy 0.762 7.874) (xy -0.762 6.35) (xy 0.762 4.826)
-						(xy -0.762 3.302) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type solid)
-					)
-					(fill
-						(type none)
 					)
 				)
 				(pin passive line
@@ -1635,24 +1779,6 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 			)
 			(embedded_fonts no)
 		)
@@ -1663,8 +1789,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1673,6 +1803,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -1681,38 +1813,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Power Field-Effect Transistor, 23.5A I(D), 60V, 0.00625ohm, 1-Element, N-Channel, Silicon, Metal-oxide Semiconductor FET"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*Vishay_S17-0173-SINGLE_MFG*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_1_SI7164DP-T1-GE3_UGA SSRL Hardware Team_1_0"
@@ -2049,43 +2189,7 @@
 					)
 				)
 				(pin passive line
-					(at -10.16 10.16 0)
-					(length 5.08)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5-6-7-8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 0 90)
-					(length 5.08)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 15.24 180)
+					(at 7.62 10.16 180)
 					(length 5.08)
 					(name "S"
 						(effects
@@ -2094,7 +2198,7 @@
 							)
 						)
 					)
-					(number "3"
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2121,7 +2225,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 10.16 180)
+					(at 7.62 15.24 180)
 					(length 5.08)
 					(name "S"
 						(effects
@@ -2130,7 +2234,43 @@
 							)
 						)
 					)
-					(number "1"
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 0 90)
+					(length 5.08)
+					(name "G"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 10.16 0)
+					(length 5.08)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5-6-7-8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2148,8 +2288,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2158,6 +2302,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2166,38 +2312,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "768K 0.063W 1% 0402 (1005 Metric)  SMD"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*RESC0402(1005)_L*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_768KR2F_UGA SSRL Hardware Team_0_1_0"
@@ -2260,8 +2414,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2270,6 +2428,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2278,38 +2438,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Fixed Resistor, Thin Film, 0.25W, 150000ohm, 200V, 1% +/-Tol, 50ppm/Cel, Surface Mount, 1206"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-RT1206-IPC_C*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_RES-2_UGA SSRL Hardware Team_0_1_0"
@@ -2372,8 +2540,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2382,6 +2554,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2390,38 +2564,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*CAPC1608X90X35ML15T15*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_1_CAP-NP-2_UGA SSRL Hardware Team_1_1_0"
@@ -2474,24 +2656,6 @@
 					)
 				)
 				(pin passive line
-					(at 0 7.62 270)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
 					(at 0 0 90)
 					(length 2.54)
 					(name "1"
@@ -2509,6 +2673,24 @@
 						)
 					)
 				)
+				(pin passive line
+					(at 0 7.62 270)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
 			)
 			(embedded_fonts no)
 		)
@@ -2519,8 +2701,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2529,6 +2715,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2537,38 +2725,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Fixed Resistor, Thin Film, 0.15W, 80000ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-PTN0603-IPC_B*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_RES-2_UGA SSRL Hardware Team_0_1_1_0"
@@ -2631,8 +2827,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2641,6 +2841,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2649,38 +2851,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.25W, 7500ohm, 200V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 1206"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-CRCW1206-e3-IPC_A*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_RES-2_UGA SSRL Hardware Team_0_2_1_0"
@@ -2743,8 +2953,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2753,6 +2967,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2761,38 +2977,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 3300ohm, 200V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 1210"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-CRCW1210-e3-IPC_C*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_RES-2_UGA SSRL Hardware Team_0_3_1_0"
@@ -2855,8 +3079,12 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2865,6 +3093,8 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -2873,38 +3103,46 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 3300ohm, 200V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 1210"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*FP-CRCW1210-e3-IPC_C*"
 				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(symbol "root_3_RES-2_UGA SSRL Hardware Team_0_4_1_0"
@@ -3539,16 +3777,6 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 165.1) (xy 167.64 167.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a89386c-ac72-4aae-99d5-e407867b9d8d")
-	)
-	(wire
-		(pts
 			(xy 144.78 60.96) (xy 144.78 66.04)
 		)
 		(stroke
@@ -3626,16 +3854,6 @@
 			(type default)
 		)
 		(uuid "660c2c9c-7591-4b87-a718-c8e44b3771a6")
-	)
-	(wire
-		(pts
-			(xy 167.64 152.4) (xy 167.64 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6657c8f7-a45b-439d-93bd-e846a1e6bf2e")
 	)
 	(wire
 		(pts
@@ -4079,6 +4297,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 152.4) (xy 167.64 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d510d184-27e6-4330-913a-47ac558b3009")
+	)
+	(wire
+		(pts
 			(xy 88.9 154.94) (xy 88.9 139.7)
 		)
 		(stroke
@@ -4136,6 +4364,16 @@
 			(type default)
 		)
 		(uuid "ed844e0e-9b3a-4b98-b688-5483e4e79bff")
+	)
+	(wire
+		(pts
+			(xy 167.64 167.64) (xy 167.64 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef3f5aa5-acc1-4e74-b90d-a70aed2b9f6e")
 	)
 	(wire
 		(pts
@@ -25103,13 +25341,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_0_94c330ae140e2337d879337fe7aaeec_UGA SSRL Hardware Team")
 		(at 101.6 134.62 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "075e6370-0b7c-49db-9b73-9be271fc8383")
 		(property "Reference" "U18"
 			(at 106.68 132.08 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25119,6 +25361,8 @@
 		)
 		(property "Value" "LTC4231IUD-2#TRPBF"
 			(at 106.68 170.18 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25128,169 +25372,203 @@
 		)
 		(property "Footprint" "FP-UD-12-05-08-1855-IPC_A"
 			(at 101.6 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 101.6 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Switching Controller, CMOS, PQCC12"
 			(at 101.6 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MIN SUPPLY VOLTAGE" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "12"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX SUPPLY VOLTAGE" "36V"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "FREQUENCY" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "OUTPUT CURRENT" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "OUTPUT VOLTAGE" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "DROPOUT VOLTAGE" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL SUPPLY CURRENT" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-40°C"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "HVQCCN"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "85°C"
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX POWER DISSIPATION" ""
 			(at 101.092 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "11"
@@ -25333,7 +25611,7 @@
 			(uuid "f6d9dd80-8253-45ec-9695-d366ba30c332")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "U18")
 					(unit 1)
@@ -25346,13 +25624,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_RES-2_UGA SSRL Hardware Team_0")
 		(at 81.28 175.26 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "09e5414e-e087-46c3-a485-6168aaff9753")
 		(property "Reference" "R39"
 			(at 82.296 180.086 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25362,73 +25644,89 @@
 		)
 		(property "Value" "PTN0603E8002BST1"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-PTN0603-IPC_B"
 			(at 81.28 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 81.28 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Fixed Resistor, Thin Film, 0.15W, 80000ohm, 75V, 0.1% +/-Tol, 25ppm/Cel, Surface Mount, 0603"
 			(at 81.28 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "80k"
 			(at 82.296 182.626 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25438,62 +25736,74 @@
 		)
 		(property "PINS" "2"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "150°C"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "150mW"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "0.1%"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 80.264 174.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25503,7 +25813,7 @@
 			(uuid "ad7b8737-7077-4b3d-bccf-d32fff088b68")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R39")
 					(unit 1)
@@ -25516,13 +25826,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_RES-2_UGA SSRL Hardware Team_0")
 		(at 81.28 157.48 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "1255f800-7844-4a93-bac0-bd09c4ff24cb")
 		(property "Reference" "R35"
 			(at 82.296 162.306 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25532,123 +25846,149 @@
 		)
 		(property "Value" "CRCW12067K50FKEA"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-CRCW1206-e3-IPC_A"
 			(at 81.28 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 81.28 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.25W, 7500ohm, 200V, 1% +/-Tol, 100ppm/Cel, Surface Mount, 1206"
 			(at 81.28 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "1%"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "250mW"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "1206"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "7.5k"
 			(at 82.296 164.846 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25658,12 +25998,14 @@
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 80.264 156.972 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -25673,7 +26015,7 @@
 			(uuid "3f429daf-0131-4df1-bff0-5d904b2f3eb1")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R35")
 					(unit 1)
@@ -25685,13 +26027,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_1_CAP-NP-2_UGA SSRL Hardware Team")
 		(at 86.36 76.2 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "1aed8752-ff34-4c83-8d94-b007b84ddb04")
 		(property "Reference" "C28"
 			(at 88.646 73.406 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25701,73 +26047,89 @@
 		)
 		(property "Value" "Capacitor 1 uF +/- 10% 25 V 0603"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "CAPC1608X90X40LL10T20"
 			(at 86.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 86.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Chip Capacitor, 1 uF, +/- 10%, 25 V, 0603 (1608 Metric)"
 			(at 86.36 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "CAPACITOR TYPE" "Ceramic"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" "25V"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "1µF"
 			(at 88.646 75.946 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25777,82 +26139,98 @@
 		)
 		(property "RIPPLE CURRENT (AC)" ""
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "SM"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "True"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "10%"
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RIPPLE CURRENT" ""
 			(at 84.074 68.072 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -25862,7 +26240,7 @@
 			(uuid "2918d6d4-9040-4043-91c5-884e311bb096")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "C28")
 					(unit 1)
@@ -25874,22 +26252,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 127 35.56 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "368c1988-b0ed-4929-84bc-ace47f71db9e")
 		(property "Reference" "#PWR?"
 			(at 127 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 127 41.91 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25898,6 +26282,8 @@
 		)
 		(property "Footprint" ""
 			(at 127 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25906,6 +26292,8 @@
 		)
 		(property "Datasheet" ""
 			(at 127 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25914,6 +26302,8 @@
 		)
 		(property "Description" ""
 			(at 127 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25924,7 +26314,7 @@
 			(uuid "bf239332-5387-46d6-8674-17ae9f25893a")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -25937,13 +26327,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_1_CAP-NP-2_UGA SSRL Hardware Team")
 		(at 114.3 43.18 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "382992ec-d2bd-4792-a23c-9c0a7d64198e")
 		(property "Reference" "C34"
 			(at 116.586 40.386 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25953,153 +26347,185 @@
 		)
 		(property "Value" "Capacitor 1uF +/- 10% 16V 0603"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "CAPC1608X90X35ML15T15"
 			(at 114.3 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 114.3 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Chip Capacitor, 1 uF, +/- 10%, 16 V, 0603 (1608 Metric)"
 			(at 114.3 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "SM"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RIPPLE CURRENT" ""
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "True"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RIPPLE CURRENT (AC)" ""
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0603"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" "16V"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "10%"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CAPACITOR TYPE" "Ceramic"
 			(at 112.014 35.052 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "1µF"
 			(at 116.586 42.926 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26114,7 +26540,7 @@
 			(uuid "d56c9650-aae9-4c54-a23d-b3137e697681")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "C34")
 					(unit 1)
@@ -26126,13 +26552,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_0_SI5418DU-T1-GE3-Symbol-1_UGA SSRL Hardware Team")
 		(at 167.64 114.3 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "51ff1d40-5b5e-4829-96e9-72732f72ae68")
 		(property "Reference" "Q?1"
 			(at 160.02 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26142,6 +26572,8 @@
 		)
 		(property "Value" "SI5418DU-T1-GE3"
 			(at 160.02 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26151,159 +26583,191 @@
 		)
 		(property "Footprint" "SI5418DU-T1-GE3-Footprint-1"
 			(at 167.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 167.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Power Field-Effect Transistor, 11.6A I(D), 30V, 0.0145ohm, 1-Element, N-Channel, Silicon, Metal-oxide Semiconductor FET"
 			(at 167.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "150°C"
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VGS(TH) (MAX) @ ID" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL DUAL SUPPLY" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "FREQUENCY" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "3"
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL VGS" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TRANSISTOR TYPE" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VGS (MAX)" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" ""
 			(at 154.432 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "7"
@@ -26337,7 +26801,7 @@
 			(uuid "c809dc38-5624-47e3-9fcb-7f5954770f6d")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "Q?1")
 					(unit 1)
@@ -26349,13 +26813,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_0_e16934b8ef90d0e345b266f0ae9cd81_UGA SSRL Hardware Team")
 		(at 99.06 63.5 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "5fe133c0-f915-4e4a-928c-93f451908fac")
 		(property "Reference" "U13"
 			(at 104.14 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26365,6 +26833,8 @@
 		)
 		(property "Value" "INA219AIDCNR"
 			(at 104.14 83.82 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26374,149 +26844,179 @@
 		)
 		(property "Footprint" "FP-DCN0008A-IPC_A"
 			(at 99.06 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 99.06 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Power Supply Support Circuit, Fixed, 2 Channel, 2V, PDSO8"
 			(at 99.06 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "OUTPUT CURRENT" ""
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "LSSOP"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL SUPPLY CURRENT" ""
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL SUPPLY VOLTAGE" "3.3V"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX SUPPLY VOLTAGE" "5.5V"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "SENSOR TYPE" ""
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-40°C"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN SUPPLY VOLTAGE" "3V"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "8"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 98.552 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26544,7 +27044,7 @@
 			(uuid "f424be04-8f87-4755-b9ef-d2cfc0be066f")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "U13")
 					(unit 1)
@@ -26556,22 +27056,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 134.62 78.74 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "66092277-629f-4292-865f-3a803c6d7c6a")
 		(property "Reference" "#PWR?"
 			(at 134.62 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 134.62 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26580,6 +27086,8 @@
 		)
 		(property "Footprint" ""
 			(at 134.62 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26588,6 +27096,8 @@
 		)
 		(property "Datasheet" ""
 			(at 134.62 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26596,6 +27106,8 @@
 		)
 		(property "Description" ""
 			(at 134.62 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26606,7 +27118,7 @@
 			(uuid "b8da4a59-49c6-4c53-842c-d087c2119272")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -26618,13 +27130,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_0_CAP-NP-2_UGA SSRL Hardware Team")
 		(at 142.24 154.94 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ade7999-6f57-4314-a894-128e2609e6ac")
 		(property "Reference" "C33"
 			(at 144.526 152.654 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26634,143 +27150,173 @@
 		)
 		(property "Value" "C0805C184K5RACTU"
 			(at 144.526 159.766 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-C0805C-DN-IPC_A"
 			(at 142.24 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 142.24 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Ceramic Capacitor, Multilayer, Ceramic, 50V, 10% +Tol, 10% -Tol, X7R, 15% TC, 0.18uF, Surface Mount, 0805"
 			(at 142.24 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "CAPACITOR TYPE" "Ceramic"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" ""
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0805"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RIPPLE CURRENT (AC)" ""
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RIPPLE CURRENT" ""
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 141.732 150.114 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "180nF"
 			(at 144.526 159.766 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26780,12 +27326,14 @@
 		)
 		(property "VOLTAGE RATING" ""
 			(at 141.732 147.574 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -26795,7 +27343,7 @@
 			(uuid "66426005-6356-46b4-8481-653ecd21c4ba")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "C33")
 					(unit 1)
@@ -26807,22 +27355,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 160.02 154.94 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "72e8e6b2-7fe8-48ee-bca5-cc1fddb356ce")
 		(property "Reference" "#PWR?"
 			(at 160.02 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 160.02 161.29 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26831,6 +27385,8 @@
 		)
 		(property "Footprint" ""
 			(at 160.02 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26839,6 +27395,8 @@
 		)
 		(property "Datasheet" ""
 			(at 160.02 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26847,6 +27405,8 @@
 		)
 		(property "Description" ""
 			(at 160.02 154.94 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26857,7 +27417,7 @@
 			(uuid "ce32eca3-5981-4961-afb4-2c24349d7c43")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -26869,13 +27429,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_1_RES-2_UGA SSRL Hardware Team_0")
 		(at 66.04 93.98 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "74e616ec-bc3a-4808-971f-e5f5e4e59d4b")
 		(property "Reference" "R23"
 			(at 67.056 86.106 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26885,123 +27449,149 @@
 		)
 		(property "Value" "Resistor 10R  +/-1 % 0402 63 mW"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "RESC0402(1005)_L"
 			(at 66.04 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 66.04 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Chip Resistor, 10 Ohms, +/-1 %, 63 mW, -55 to 155 degC, 0402"
 			(at 66.04 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "1%"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" ""
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "63mW"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "10"
 			(at 67.056 88.646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27011,12 +27601,14 @@
 		)
 		(property "CASE/PACKAGE" "0402"
 			(at 65.024 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27026,7 +27618,7 @@
 			(uuid "8ab14034-120a-4b5c-8e4e-21771c8e7613")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R23")
 					(unit 1)
@@ -27038,22 +27630,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 149.86 167.64 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "8309a234-bc30-4d07-8c3a-1837daa1d257")
 		(property "Reference" "#PWR?"
 			(at 149.86 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 149.86 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27062,6 +27660,8 @@
 		)
 		(property "Footprint" ""
 			(at 149.86 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27070,6 +27670,8 @@
 		)
 		(property "Datasheet" ""
 			(at 149.86 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27078,6 +27680,8 @@
 		)
 		(property "Description" ""
 			(at 149.86 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27088,7 +27692,7 @@
 			(uuid "40f19f3e-f401-493a-a48b-c5e95c02f5fa")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -27100,13 +27704,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_RES-2_UGA SSRL Hardware Team_0")
 		(at 81.28 193.04 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "9edadc97-315a-42cf-a4c7-d597a749d86a")
 		(property "Reference" "R40"
 			(at 82.296 197.866 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27116,53 +27724,65 @@
 		)
 		(property "Value" "RT1206FRE07150KL"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-RT1206-IPC_C"
 			(at 81.28 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 81.28 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Fixed Resistor, Thin Film, 0.25W, 150000ohm, 200V, 1% +/-Tol, 50ppm/Cel, Surface Mount, 1206"
 			(at 81.28 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "150k"
 			(at 82.296 200.406 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27172,82 +27792,98 @@
 		)
 		(property "CASE/PACKAGE" "1206"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "1%"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "250mW"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 80.264 192.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -27257,7 +27893,7 @@
 			(uuid "11eddad4-8595-4af0-9994-8aca60cfc643")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R40")
 					(unit 1)
@@ -27269,13 +27905,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_768KR2F_UGA SSRL Hardware Team_0")
 		(at 81.28 139.7 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ef371ca-b239-4ef0-8db6-7d3c34da6e73")
 		(property "Reference" "R37"
 			(at 82.296 144.526 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27285,53 +27925,65 @@
 		)
 		(property "Value" "768KR2F"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "RESC0402(1005)_L"
 			(at 81.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 81.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "768K 0.063W 1% 0402 (1005 Metric)  SMD"
 			(at 81.28 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "768k"
 			(at 82.296 147.066 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27341,82 +27993,98 @@
 		)
 		(property "TOLERANCE" "1%"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "63mW"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" ""
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" ""
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "SMT"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "0402"
 			(at 80.264 139.192 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -27426,7 +28094,7 @@
 			(uuid "d7443c4c-01cb-4241-9f57-ddfcdc2f8b8a")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R37")
 					(unit 1)
@@ -27439,13 +28107,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_RES-2_UGA SSRL Hardware Team_0")
 		(at 134.62 48.26 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4de6188-5639-42bd-8789-ab8dd82f5efc")
 		(property "Reference" "R16"
 			(at 135.636 53.086 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27455,123 +28127,149 @@
 		)
 		(property "Value" "CRCW12103K30JNEA"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
 			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 3300ohm, 200V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 1210"
 			(at 134.62 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "1210"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "5%"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "500mW"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "3.3k"
 			(at 135.636 55.626 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27581,12 +28279,14 @@
 		)
 		(property "PINS" "2"
 			(at 133.604 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27596,7 +28296,7 @@
 			(uuid "d69dd9b4-56ac-45ea-8350-cd0252814136")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R16")
 					(unit 1)
@@ -27609,13 +28309,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_3_RES-2_UGA SSRL Hardware Team_0")
 		(at 144.78 48.26 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc8af5a9-ca6c-417f-a71b-4169f003a0f7")
 		(property "Reference" "R15"
 			(at 145.796 53.086 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27625,123 +28329,149 @@
 		)
 		(property "Value" "CRCW12103K30JNEA"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
 			(at 144.78 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 144.78 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Fixed Resistor, Metal Glaze/thick Film, 0.5W, 3300ohm, 200V, 5% +/-Tol, 200ppm/Cel, Surface Mount, 1210"
 			(at 144.78 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "1210"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "5%"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "500mW"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "3.3k"
 			(at 145.796 55.626 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27751,12 +28481,14 @@
 		)
 		(property "PINS" "2"
 			(at 143.764 47.752 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -27766,7 +28498,7 @@
 			(uuid "dac5051d-8327-47b3-88da-cc5b4465b654")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R15")
 					(unit 1)
@@ -27778,13 +28510,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_1_RES-2_UGA SSRL Hardware Team_0")
 		(at 83.82 93.98 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "c423e7a7-7785-429f-a8cb-96e7b86a7d8e")
 		(property "Reference" "R25"
 			(at 84.836 86.106 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27794,123 +28530,149 @@
 		)
 		(property "Value" "Resistor 10R  +/-1 % 0402 63 mW"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "RESC0402(1005)_L"
 			(at 83.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 83.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Chip Resistor, 10 Ohms, +/-1 %, 63 mW, -55 to 155 degC, 0402"
 			(at 83.82 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "1%"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VOLTAGE RATING" ""
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" ""
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" "63mW"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PINS" "2"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ALTIUM_VALUE" "10"
 			(at 84.836 88.646 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27920,12 +28682,14 @@
 		)
 		(property "CASE/PACKAGE" "0402"
 			(at 82.804 80.772 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "2"
@@ -27935,7 +28699,7 @@
 			(uuid "11bd95b8-cf1f-426e-98c3-c5db1f1254dd")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R25")
 					(unit 1)
@@ -27945,15 +28709,20 @@
 	)
 	(symbol
 		(lib_id "Altium Content Vault:root_3_ONSC-K1A2-2_Altium Content Vault")
-		(at 170.18 157.48 0)
+		(at 170.18 160.02 0)
+		(mirror x)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "d35ee2c1-dda4-46b0-b30c-c6da1d0e9c98")
-		(property "Reference" "D?1"
-			(at 170.434 161.29 0)
+		(property "Reference" "D23"
+			(at 170.434 156.21 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27962,210 +28731,252 @@
 			)
 		)
 		(property "Value" "MM3Z3V6T1G"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
-			(at 170.18 157.48 0)
+			(at 170.18 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 157.48 0)
+			(at 170.18 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Zener Voltage Regulator, 300 mW, 2-Pin SOD-323, Pb-Free, Tape and Reel"
-			(at 170.18 157.48 0)
+			(at 170.18 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ROHS" "Pb-Free"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK1URL" "http://www.onsemi.com/"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PACKAGEVERSION" "Rev. H, 03/2007"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VZ TYP (V)" "3.6"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PARTNUMBER" "MM3Z3V6T1G"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK2DESCRIPTION" "Datasheet"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK2URL" "http://www.onsemi.cn/pub_link/Collateral/MM3Z2V4T1-D.PDF"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "DATASHEETVERSION" "Rev. 9"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PACKAGEREFERENCE" "SOD-323-2-477-02"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK3URL" "http://www.onsemi.com/pub_link/Collateral/477-02.PDF.1"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PACKING" "Tape and Reel"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MANUFACTURER" "On Semiconductor"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" "Surface Mount"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK3DESCRIPTION" "Package Specification"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PACKAGEDESCRIPTION" "2-Pin SOD, Body 1.7 x 1.25 mm"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "P MAX (W)" "0.3"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Manufacturer URL"
-			(at 164.846 151.892 0)
+			(at 164.846 165.608 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28175,9 +28986,9 @@
 			(uuid "0c20b484-1003-43ba-bbf5-c5943c883f3d")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
-					(reference "D?1")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -28187,13 +28998,17 @@
 		(lib_id "Altium Content Vault:root_0_1029c3af85768c4190bb7ad29bc67b5_Altium Content Vault")
 		(at 66.04 109.22 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8aa53e9-a3c6-4b41-accb-208ad580e7e5")
 		(property "Reference" "R28"
 			(at 71.12 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28203,243 +29018,293 @@
 		)
 		(property "Value" "CSR1206FK25L0"
 			(at 70.104 113.284 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "FP-CSR1206-IPC_C"
 			(at 66.04 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 66.04 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "General Purpose Thick Film Chip Resistor, 1206, 25mΩ, 1%, 0.5W"
 			(at 66.04 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "LEAD FREE" "Lead Free"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MILITARY STANDARD" "Not"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX POWER DISSIPATION" "500mW"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE CODE (IMPERIAL)" "1206"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "155°C"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE CODE (METRIC)" "3216"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "HEIGHT" "0.026inch"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "PACKAGING" "Tape and Reel"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "1206"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "SERIES" "CSR"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NUMBER OF TERMINATIONS" "2"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNT" "Surface Mount"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "DEPTH" "1.55mm"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CONTACT PLATING" "Tin"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TEMPERATURE COEFFICIENT" "100ppm/°C"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "LENGTH" "0.12inch"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RADIATION HARDENING" "No"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "WIDTH" "0.061inch"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "SIZE CODE" "1206"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RESISTANCE" "25m"
 			(at 71.12 114.3 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28449,52 +29314,62 @@
 		)
 		(property "POWER RATING" "500mW"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-55°C"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TOLERANCE" "1%"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "RESISTOR TYPE" "Thick Film"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CONSTRUCTION" "Rectangular"
 			(at 65.532 107.696 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28504,7 +29379,7 @@
 			(uuid "fe6bf7fb-5281-4501-9f02-5d7ccabe9d03")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "R28")
 					(unit 1)
@@ -28516,22 +29391,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 167.64 167.64 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "e1e8059c-de75-4b85-a7fd-638f84966f27")
 		(property "Reference" "#PWR?"
 			(at 167.64 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 167.64 173.99 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28540,6 +29421,8 @@
 		)
 		(property "Footprint" ""
 			(at 167.64 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28548,6 +29431,8 @@
 		)
 		(property "Datasheet" ""
 			(at 167.64 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28556,6 +29441,8 @@
 		)
 		(property "Description" ""
 			(at 167.64 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28566,7 +29453,7 @@
 			(uuid "0931d457-f355-41c5-b89e-c9a66934dda6")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -28578,22 +29465,28 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 144.78 78.74 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "e91ebd41-e1dc-49dd-9c9e-d32a31299f4f")
 		(property "Reference" "#PWR?"
 			(at 144.78 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 144.78 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28602,6 +29495,8 @@
 		)
 		(property "Footprint" ""
 			(at 144.78 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28610,6 +29505,8 @@
 		)
 		(property "Datasheet" ""
 			(at 144.78 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28618,6 +29515,8 @@
 		)
 		(property "Description" ""
 			(at 144.78 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28628,7 +29527,7 @@
 			(uuid "e1fba6dc-4a1e-4f90-bc6b-69df4f922ca2")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "#PWR?")
 					(unit 1)
@@ -28640,13 +29539,17 @@
 		(lib_id "UGA SSRL Hardware Team:root_1_SI7164DP-T1-GE3_UGA SSRL Hardware Team")
 		(at 127 129.54 0)
 		(unit 1)
+		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
 		(dnp no)
 		(uuid "fedfdfbe-7f56-409b-b6f0-8b829a27346c")
 		(property "Reference" "Q3"
 			(at 121.92 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28656,6 +29559,8 @@
 		)
 		(property "Value" "SI7164DP-T1-GE3"
 			(at 116.84 127 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28665,159 +29570,191 @@
 		)
 		(property "Footprint" "Vishay_S17-0173-SINGLE_MFG"
 			(at 127 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 127 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "Power Field-Effect Transistor, 23.5A I(D), 60V, 0.00625ohm, 1-Element, N-Channel, Silicon, Metal-oxide Semiconductor FET"
 			(at 127 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "PINS" "5"
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "TRANSISTOR TYPE" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "FREQUENCY" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VGS(TH) (MAX) @ ID" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL VGS" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "NOMINAL DUAL SUPPLY" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "POWER" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "VGS (MAX)" ""
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "150°C"
 			(at 116.332 113.538 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(pin "3"
@@ -28836,7 +29773,7 @@
 			(uuid "84d98128-53eb-4a99-bfb6-de2bac47d718")
 		)
 		(instances
-			(project ""
+			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/2029a850-3e48-491b-a9aa-1537ac8442d4"
 					(reference "Q3")
 					(unit 1)
