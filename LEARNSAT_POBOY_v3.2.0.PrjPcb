@@ -83,7 +83,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KMHHWGDA
 
 [Document3]
 DocumentPath=3V3Primary.SchDoc
@@ -134,7 +134,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VYLUUOOD
 
 [Document6]
 DocumentPath=5VPrimary.SchDoc
@@ -219,7 +219,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ESXTJLPO
 
 [Document11]
 DocumentPath=STM32.SchDoc
@@ -236,7 +236,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FZCZMQEC
 
 [Document12]
 DocumentPath=TVS_Diodes.SchDoc
@@ -253,7 +253,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RHMDJORZ
 
 [Document13]
 DocumentPath=VBATTPrimary.SchDoc
@@ -270,7 +270,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=SVIDVSCE
 
 [Document14]
 DocumentPath=VBATTSecondary.SchDoc
@@ -287,7 +287,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CPROLCDF
 
 [Document15]
 DocumentPath=WatchDog.SchDoc
@@ -304,7 +304,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JXRNKXYE
 
 [Document16]
 DocumentPath=12VPrimary.SchDoc
@@ -322,6 +322,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WSPHMYIM
+
+[GeneratedDocument1]
+DocumentPath=PoBoI 11-2-2025 5-19-40 PM.WAS
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
