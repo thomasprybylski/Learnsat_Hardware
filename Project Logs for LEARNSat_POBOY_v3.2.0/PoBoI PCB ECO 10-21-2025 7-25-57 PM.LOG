@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=3V3_Secondary Pin=C100-
+Removed Pin From Net: NetName=SDA Pin=U27-7
+Removed Pin From Net: NetName=SCL Pin=U29-7
+Removed Pin From Net: NetName=3V3_Secondary Pin=U40-3
+Removed Pin From Net: NetName=3V3 Pin=U40-5
+Added Component: Designator=R85(RESC0603(1608)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U41(ISL3259EIRZ-Footprint-1)
+Add component (AddParameter): Name = "Case/Package"; Value = "HVSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "5.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C3-1
+Added Pin To Net: NetName=VBatt_Primary Pin=C4-1
+Add Pin To Net: Unknown Pin: Pin C100-1
+Added Pin To Net: NetName=5V_Secondary Pin=C101-1
+Added Pin To Net: NetName=VBatt_Secondary Pin=C102-1
+Added Pin To Net: NetName=B.5 Pin=R40-1
+Added Pin To Net: NetName=PC14OSC32_IN Pin=U1-3
+Added Pin To Net: NetName=PC14OSC32_OUT Pin=U1-4
+Added Pin To Net: NetName=NRST Pin=U1-7
+Added Pin To Net: NetName=BWE0 Pin=U1-15
+Added Pin To Net: NetName=VBatt_EnableP Pin=U1-22
+Added Pin To Net: NetName=B.5_VD Pin=U1-26
+Added Pin To Net: NetName=TEMP_TELEM Pin=U1-27
+Added Pin To Net: NetName=TEMP_TELEM_2 Pin=U1-33
+Added Pin To Net: NetName=OBC_WD Pin=U1-37
+Added Pin To Net: NetName=OBC_RST Pin=U1-38
+Added Pin To Net: NetName=UART_TX Pin=U1-51
+Added Pin To Net: NetName=UART_RX Pin=U1-52
+Added Pin To Net: NetName=Boot0 Pin=U1-60
+Added Pin To Net: NetName=SCL Pin=U38-2
+Added Pin To Net: NetName=SDA Pin=U38-9
+Added Pin To Net: NetName=3V3_EnableS Pin=U39-4
+Added Pin To Net: NetName=5V_EnableS Pin=U39-6
+Added Pin To Net: NetName=VBatt_EnableS Pin=U39-10
+Added Pin To Net: NetName=3V3 Pin=U39-14
+Added Pin To Net: NetName=5V_Secondary Pin=U41-5
+Added Pin To Net: NetName=GND Pin=U41-6
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=3V3_EnablePWD Pin=U39-2
+Added Net: Name=3V3_EnablePWD
+Added Pin To Net: NetName=3V3_stmDisableP Pin=U1-16
+Added Pin To Net: NetName=3V3_stmDisableP Pin=U39-1
+Added Net: Name=3V3_stmDisableP
+Added Pin To Net: NetName=3V3_stmDisableS Pin=U1-17
+Added Pin To Net: NetName=3V3_stmDisableS Pin=U39-3
+Added Net: Name=3V3_stmDisableS
+Added Pin To Net: NetName=5V_EnablePWD Pin=D63-1
+Added Pin To Net: NetName=5V_EnablePWD Pin=D64-1
+Added Net: Name=5V_EnablePWD
+Added Pin To Net: NetName=5V_stmDisableS Pin=U1-21
+Added Pin To Net: NetName=5V_stmDisableS Pin=U39-5
+Added Net: Name=5V_stmDisableS
+Added Pin To Net: NetName=5V_stmEnableP1 Pin=D63-2
+Added Pin To Net: NetName=5V_stmEnableP1 Pin=U1-25
+Added Net: Name=5V_stmEnableP1
+Added Pin To Net: NetName=5V_stmEnableP2 Pin=D64-2
+Added Pin To Net: NetName=5V_stmEnableP2 Pin=U1-29
+Added Net: Name=5V_stmEnableP2
+Added Pin To Net: NetName=C\E\m\p\p\t\ Pin=U1-24
+Added Net: Name=C\E\m\p\p\t\
+Added Pin To Net: NetName=I2CFault Pin=U1-43
+Added Pin To Net: NetName=I2CFault Pin=U38-7
+Added Net: Name=I2CFault
+Added Pin To Net: NetName=R\X\_\E\n\a\b\l\e\ Pin=U1-57
+Added Pin To Net: NetName=R\X\_\E\n\a\b\l\e\ Pin=U41-2
+Added Net: Name=R\X\_\E\n\a\b\l\e\
+Added Pin To Net: NetName=RS485_RX Pin=U1-56
+Added Pin To Net: NetName=RS485_RX Pin=U41-1
+Added Net: Name=RS485_RX
+Added Pin To Net: NetName=RS485_TX Pin=U1-59
+Added Pin To Net: NetName=RS485_TX Pin=U41-4
+Added Net: Name=RS485_TX
+Added Pin To Net: NetName=RS-485A Pin=R85-2
+Added Pin To Net: NetName=RS-485A Pin=U41-7
+Added Net: Name=RS-485A
+Added Pin To Net: NetName=RS-485B Pin=R85-1
+Added Pin To Net: NetName=RS-485B Pin=U41-8
+Added Net: Name=RS-485B
+Added Pin To Net: NetName=Solar_TELEM_1 Pin=U1-8
+Added Net: Name=Solar_TELEM_1
+Added Pin To Net: NetName=Solar_TELEM_2 Pin=U1-9
+Added Net: Name=Solar_TELEM_2
+Added Pin To Net: NetName=Solar_TELEM_3 Pin=U1-10
+Added Net: Name=Solar_TELEM_3
+Added Pin To Net: NetName=Solar_TELEM_4 Pin=U1-11
+Added Net: Name=Solar_TELEM_4
+Added Pin To Net: NetName=StartupRead Pin=U1-40
+Added Net: Name=StartupRead
+Added Pin To Net: NetName=StartupWrite Pin=U1-39
+Added Net: Name=StartupWrite
+Added Pin To Net: NetName=STM_HB Pin=U1-20
+Added Net: Name=STM_HB
+Added Pin To Net: NetName=STM_SCL Pin=U1-41
+Added Pin To Net: NetName=STM_SCL Pin=U38-3
+Added Net: Name=STM_SCL
+Added Pin To Net: NetName=STM_SDA Pin=U1-42
+Added Pin To Net: NetName=STM_SDA Pin=U38-8
+Added Net: Name=STM_SDA
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=U1-46
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=TX_Enable Pin=U1-58
+Added Pin To Net: NetName=TX_Enable Pin=U41-3
+Added Net: Name=TX_Enable
+Added Pin To Net: NetName=VBatt_stmDisableS Pin=U1-23
+Added Pin To Net: NetName=VBatt_stmDisableS Pin=U39-11
+Added Net: Name=VBatt_stmDisableS
+Added Member To Class: ClassName=PC104 Member=Component 3V3P TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 3V3S TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 5VP TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 5VS TPAD6R
+Added Member To Class: ClassName=STM32 Member=Component R85 120R3J
+Added Member To Class: ClassName=STM32 Member=Component U41 ISL3259EIRZ

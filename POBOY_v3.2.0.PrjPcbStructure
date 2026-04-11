@@ -1,0 +1,13 @@
+Record=TopLevelDocument|FileName=3V3_Buck.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=3V3Primary.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=3V3Secondary.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=5V_Buck.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=5VPrimary.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=5VSecondary.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=MemoryLatch.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=PC104.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=STM32.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=TVS_Diodes.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=VBATTPrimary.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=VBATTSecondary.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=3V3_Buck.SchDoc|FileName=WatchDog.SchDoc|SheetNumber=12

@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U50
+Change Component Designator: OldDesignator=U? NewDesignator=U51
+Added Member To Class: ClassName=PC104 Member=Component 3V3P TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 3V3S TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 5VP TPAD6R
+Added Member To Class: ClassName=PC104 Member=Component 5VS TPAD6R
+Added Member To Class: ClassName=5VPrimary Member=Component R82 PTN0603E8002BST1
+Added Member To Class: ClassName=12V_BOOST Member=Component U51 LM2622MMX-ADJ/NOPB
