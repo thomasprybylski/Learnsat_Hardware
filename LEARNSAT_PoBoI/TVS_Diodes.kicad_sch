@@ -375,7 +375,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05180650-fb71-49a6-8679-2740f6815dd8")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0502"
 			(at 58.42 111.76 0)
 			(effects
 				(font
@@ -422,7 +422,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "#PWR?")
+					(reference "#PWR0502")
 					(unit 1)
 				)
 			)
@@ -437,7 +437,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16a5f754-c0bf-4a99-b532-c8af247d7f5b")
-		(property "Reference" "D7"
+		(property "Reference" "D503"
 			(at 108.966 96.266 0)
 			(effects
 				(font
@@ -456,7 +456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 111.76 101.6 0)
 			(effects
 				(font
@@ -662,7 +662,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "D7")
+					(reference "D503")
 					(unit 1)
 				)
 			)
@@ -677,7 +677,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "16fb2ec9-4920-453a-b635-b8721b75db2c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0503"
 			(at 99.06 99.06 0)
 			(effects
 				(font
@@ -724,7 +724,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "#PWR?")
+					(reference "#PWR0503")
 					(unit 1)
 				)
 			)
@@ -739,7 +739,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40ea137a-ad5e-47f6-8bc3-aa579bf85d4a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0504"
 			(at 99.06 111.76 0)
 			(effects
 				(font
@@ -786,7 +786,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "#PWR?")
+					(reference "#PWR0504")
 					(unit 1)
 				)
 			)
@@ -801,7 +801,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "459cd55b-0671-4a36-99b4-d944f083d2a6")
-		(property "Reference" "D6"
+		(property "Reference" "D504"
 			(at 108.966 108.966 0)
 			(effects
 				(font
@@ -820,7 +820,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 111.76 114.3 0)
 			(effects
 				(font
@@ -1026,7 +1026,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "D6")
+					(reference "D504")
 					(unit 1)
 				)
 			)
@@ -1041,7 +1041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8298acb1-5876-4615-a252-8ddbe9948bc6")
-		(property "Reference" "D1"
+		(property "Reference" "D501"
 			(at 68.326 96.266 0)
 			(effects
 				(font
@@ -1060,7 +1060,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 71.12 101.6 0)
 			(effects
 				(font
@@ -1266,7 +1266,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "D1")
+					(reference "D501")
 					(unit 1)
 				)
 			)
@@ -1281,7 +1281,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dc0221e7-fcbd-4436-aba3-21584dd776cf")
-		(property "Reference" "D2"
+		(property "Reference" "D502"
 			(at 68.326 108.966 0)
 			(effects
 				(font
@@ -1300,7 +1300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Diode_SMD:D_SOD-323"
 			(at 71.12 114.3 0)
 			(effects
 				(font
@@ -1506,7 +1506,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "D2")
+					(reference "D502")
 					(unit 1)
 				)
 			)
@@ -1521,7 +1521,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e318fe4b-0e10-4381-bb6c-6f118f7d85e4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0501"
 			(at 58.42 99.06 0)
 			(effects
 				(font
@@ -1568,7 +1568,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/9724113b-8f83-448f-99ae-c96db2fb53ca"
-					(reference "#PWR?")
+					(reference "#PWR0501")
 					(unit 1)
 				)
 			)

@@ -1,32 +1,26 @@
 (kicad_sch
-	(version 20260306)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "10.0")
+	(generator_version "9.0")
 	(uuid "235cec91-50fe-4b74-bdd5-45119919cb4d")
 	(paper "A")
 	(lib_symbols
 		(symbol "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND"
-			(power global)
+			(power)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "#PWR"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Value" "GND"
 				(at 0 -6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -35,46 +29,38 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "Power symbol creates a global label with name 'GND'"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_keywords" "power-flag"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "GND_POWER_GROUND_0_0"
@@ -164,12 +150,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -178,8 +160,6 @@
 			)
 			(property "Value" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -188,46 +168,38 @@
 			)
 			(property "Footprint" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Datasheet" ""
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "Description" "Bus Driver, LVC/LCX/Z Series, 1-Func, 1-Bit, True Output, CMOS, PDSO6"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(property "ki_fp_filters" "*DCK0006A_M*"
 				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "root_0_TI-SN74LVC1G373-6_UGA SSRL Hardware Team_1_0"
@@ -241,6 +213,24 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 5.08)
+					(name "~{OE}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 				(pin input line
@@ -261,24 +251,6 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 20.32 -12.7 180)
-					(length 5.08)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin input line
 					(at -5.08 -7.62 0)
 					(length 5.08)
@@ -290,6 +262,24 @@
 						)
 					)
 					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -12.7 0)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -316,34 +306,16 @@
 					)
 				)
 				(pin power_in line
-					(at -5.08 -12.7 0)
+					(at 20.32 -12.7 180)
 					(length 5.08)
-					(name "VCC"
+					(name "GND"
 						(effects
 							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -5.08 -2.54 0)
-					(length 5.08)
-					(name "~{OE}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -435,128 +407,66 @@
 		)
 		(uuid "b50012f8-95cd-45f8-ad58-ee2b319ae55f")
 	)
-	(global_label "3V3_Secondary"
-		(shape input)
-		(at 88.9 111.76 180)
-		(fields_autoplaced yes)
+	(label "3V3"
+		(at 88.9 116.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "1c86545b-beb8-442e-becc-1551e0f4c700")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.7031 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "33ef7279-8849-437f-92bf-a62eb37e400a")
 	)
-	(global_label "StartupRead"
-		(shape input)
-		(at 147.32 109.22 0)
-		(fields_autoplaced yes)
+	(label "StartupWrite"
+		(at 88.9 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify left bottom)
 		)
-		(uuid "1d9d790f-666a-462b-ace8-ee4bdcbf246e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.8559 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
+		(uuid "83d6150b-5dd4-41c4-ba71-1dddc8e3e62b")
 	)
-	(global_label "StartupWrite"
-		(shape input)
-		(at 88.9 109.22 180)
-		(fields_autoplaced yes)
+	(label "StartupRead"
+		(at 137.16 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "7b15ff85-6793-4afc-a904-6b01413ea715")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.364 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "9a8aa63a-6b63-47a5-a57d-62df9ba09c7c")
 	)
-	(global_label "3V3"
-		(shape input)
-		(at 88.9 116.84 180)
-		(fields_autoplaced yes)
+	(label "3V3_Secondary"
+		(at 88.9 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left bottom)
 		)
-		(uuid "b7348449-3739-412f-83d5-9c49dee9e8eb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 82.4072 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
+		(uuid "e7ad264b-5ce5-4c13-ba0c-990bf5b11521")
 	)
 	(symbol
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 81.28 109.22 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5c179ac-6cc1-4d2a-9c14-b1f0f7df3951")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01501"
 			(at 81.28 109.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 81.28 115.57 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -565,8 +475,6 @@
 		)
 		(property "Footprint" ""
 			(at 81.28 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -575,8 +483,6 @@
 		)
 		(property "Datasheet" ""
 			(at 81.28 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -585,8 +491,6 @@
 		)
 		(property "Description" ""
 			(at 81.28 109.22 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -597,9 +501,9 @@
 			(uuid "8ef89d01-5c1c-4d6a-a5d8-c4d7a9f4519c")
 		)
 		(instances
-			(project "LEARNSAT_POBOY_v3.2.0"
+			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/af482a7d-1f10-48c9-bdaf-5889a5ffb8a7"
-					(reference "#PWR?")
+					(reference "#PWR01501")
 					(unit 1)
 				)
 			)
@@ -609,28 +513,22 @@
 		(lib_id "LEARNSAT_POBOY_v3.2.0-altium-import:GND_POWER_GROUND")
 		(at 137.16 119.38 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5fb35a6-57aa-4668-9e5d-2995abdb58d7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR01502"
 			(at 137.16 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Value" "GND"
 			(at 137.16 125.73 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -639,8 +537,6 @@
 		)
 		(property "Footprint" ""
 			(at 137.16 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -649,8 +545,6 @@
 		)
 		(property "Datasheet" ""
 			(at 137.16 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -659,8 +553,6 @@
 		)
 		(property "Description" ""
 			(at 137.16 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -671,9 +563,9 @@
 			(uuid "c8094b9c-9030-4649-8fe1-ed6c1c7740be")
 		)
 		(instances
-			(project "LEARNSAT_POBOY_v3.2.0"
+			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/af482a7d-1f10-48c9-bdaf-5889a5ffb8a7"
-					(reference "#PWR?")
+					(reference "#PWR01502")
 					(unit 1)
 				)
 			)
@@ -683,17 +575,13 @@
 		(lib_id "UGA SSRL Hardware Team:root_0_TI-SN74LVC1G373-6_UGA SSRL Hardware Team")
 		(at 109.22 104.14 0)
 		(unit 1)
-		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(in_pos_files yes)
 		(dnp no)
 		(uuid "dc564862-02a0-4833-b9b6-ea5b401b6db9")
-		(property "Reference" "U23"
+		(property "Reference" "U1501"
 			(at 109.22 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -703,8 +591,6 @@
 		)
 		(property "Value" "SN74LVC1G373DCKR"
 			(at 109.22 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,205 +598,171 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "DCK0006A_M"
+		(property "Footprint" "SN74LVC1G373DCKR:SOT65P210X110-6N"
 			(at 109.22 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
 			(at 109.22 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Description" "Bus Driver, LVC/LCX/Z Series, 1-Func, 1-Bit, True Output, CMOS, PDSO6"
 			(at 109.22 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "MEMORY SIZE" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "ROHS COMPLIANT" "Yes"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MIN OPERATING TEMPERATURE" "-40°C"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "CASE/PACKAGE" "TSSOP"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MOUNTING TECHNOLOGY" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MIN SUPPLY VOLTAGE" "1.65V"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "POWER" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "SPEED" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MEMORY FORMAT" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "CLOCK FREQUENCY" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MAX OPERATING TEMPERATURE" "125°C"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "FREQUENCY" ""
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "MAX SUPPLY VOLTAGE" "5.5V"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(property "PINS" "6"
 			(at 103.632 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -932,9 +784,9 @@
 			(uuid "9a836760-92f8-482a-918d-3238892ca196")
 		)
 		(instances
-			(project "LEARNSAT_POBOY_v3.2.0"
+			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/af482a7d-1f10-48c9-bdaf-5889a5ffb8a7"
-					(reference "U23")
+					(reference "U1501")
 					(unit 1)
 				)
 			)

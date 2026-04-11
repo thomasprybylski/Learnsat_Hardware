@@ -315,7 +315,6 @@
 				)
 			)
 		)
-		(path "/0c697000-2c88-47c4-94a0-b863fcbd3448/86342489-4e7a-4144-987a-1032b62a3cb8")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -652,7 +651,6 @@
 				)
 			)
 		)
-		(path "/3d8570b8-5b2b-430e-b97d-c239e0d8aa61/49deaf63-16b3-4bc0-be68-b3236bf0f167")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -842,7 +840,6 @@
 				)
 			)
 		)
-		(path "/a041cb0a-8824-4880-ab4b-1907cbcf0470/88ba67f7-1933-4887-9e68-ca7eb96d30c5")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -1133,7 +1130,6 @@
 				)
 			)
 		)
-		(path "/6260c243-7e7f-4d1c-94c9-9dee3123164a/5d7360b5-cfd5-4f7d-9346-52bb1a5422cc")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -1447,7 +1443,6 @@
 				)
 			)
 		)
-		(path "/bbc27d99-809c-4a6c-a6cd-560acfaa9093/b942e234-c263-498d-938d-2cf65b2380ca")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -1754,7 +1749,6 @@
 				)
 			)
 		)
-		(path "/c9694a0d-34b6-444d-b61d-c0ee72ba1284/56861fbc-9093-48d6-afa0-9d24fa385c59")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -2031,7 +2025,6 @@
 				)
 			)
 		)
-		(path "/4182ef0f-b442-4e7b-a6b3-99ee1659e4d5/157f6306-41d5-40c3-8a1f-45c56842d95f")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -2284,7 +2277,6 @@
 				)
 			)
 		)
-		(path "/90498dcd-0dd5-48b5-8eb3-40169a1ee3bf/c57b3e76-c4df-42bc-8af6-435ec950f8d5")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -2634,7 +2626,6 @@
 				)
 			)
 		)
-		(path "/329d5b1b-f9a1-48ce-af9f-1ed1b4c34c1a/9ab7faa8-f6cf-4d39-94cd-e71b59f0dc04")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -2979,7 +2970,6 @@
 				)
 			)
 		)
-		(path "/0b352525-fa1b-4c20-a3e6-1ebd8c0f2055/f6d2698a-d7c6-464d-bdf0-4a6329231802")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -3306,7 +3296,6 @@
 				)
 			)
 		)
-		(path "/f459b2b8-889f-4d96-a3f6-d1a244955d3d/e8fc9e2e-2106-4d29-b0a1-2f4264eb1e60")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -3478,7 +3467,6 @@
 				)
 			)
 		)
-		(path "/47f31cb0-8f71-4506-9a61-73e30acf1115/f981c611-b2c8-41c7-9d60-9010b6d83727")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -3778,7 +3766,6 @@
 				)
 			)
 		)
-		(path "/e490d337-1c06-4234-a075-a7a3b0493113/d4541060-2268-4b3b-89c2-945a7661a076")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -4241,7 +4228,6 @@
 				)
 			)
 		)
-		(path "/7797ee2c-1fac-42f8-9003-63b2b79f4dac/f369494c-f7aa-4361-a197-e0f715edab63")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -4473,7 +4459,6 @@
 				)
 			)
 		)
-		(path "/9157b7e9-3602-4029-8b72-51c675d8428b/2341742b-8ace-46aa-b9e8-492446a54194")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -4975,7 +4960,6 @@
 				)
 			)
 		)
-		(path "/3c2fc6d8-3e5b-41ba-9aec-0940488ad2ba/d9a1cd35-ef0e-4f31-ace6-0db1d6443998")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -5306,7 +5290,6 @@
 				)
 			)
 		)
-		(path "/4b5dfba9-44c4-4bb0-8fa5-68fc1614bc49/b12d236e-19cd-4da5-a3bf-d31f8637df5b")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -5621,7 +5604,6 @@
 				)
 			)
 		)
-		(path "/c8bd3dd1-2b15-4170-80b0-7f5e494f3fa1/5b642ed1-875e-4adc-89e5-ce1b182671bd")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -5906,7 +5888,6 @@
 				)
 			)
 		)
-		(path "/2ea15c99-4ef8-4b1f-9ed3-93d10ee45395/096bbd67-9b43-4195-ac8a-354019abf538")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -6184,7 +6165,6 @@
 				)
 			)
 		)
-		(path "/3855c531-783a-49b8-8af9-e8940dda43b1/222fe0d1-018f-4991-8625-e69b0e6060cc")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -6521,7 +6501,6 @@
 				)
 			)
 		)
-		(path "/47fe2416-2310-48e6-8006-11fb7e6e447f/214580eb-28e2-4849-91f7-2bd9dd99f6a3")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -6941,7 +6920,6 @@
 				)
 			)
 		)
-		(path "/aaecea38-22da-4805-8f96-d69ada0a67a6/e85382bc-5845-4255-a76a-5dbb53c2b67b")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -7270,7 +7248,6 @@
 				)
 			)
 		)
-		(path "/3473fa97-e803-4199-96ed-9d238711f15a/0ba64be9-3591-420d-b3b6-f16916fbe9d2")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -7493,7 +7470,6 @@
 				)
 			)
 		)
-		(path "/5690b81d-c638-47da-b585-05ebe374bd31/40fe1427-bd7f-4478-a49b-87f063bfecf3")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -7795,7 +7771,6 @@
 				)
 			)
 		)
-		(path "/3ca98e08-9ed2-430c-9067-394f84d56735/ff74fec0-b1e2-4d0f-b1c2-645e7ace9a99")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -8072,7 +8047,6 @@
 				)
 			)
 		)
-		(path "/15879c4c-7fa2-4b3f-aeb8-7166900aa097/b14bba62-934f-4d71-a9ba-6e9cb0616404")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -8394,7 +8368,6 @@
 				)
 			)
 		)
-		(path "/4b3e62c1-190e-43f5-b77d-723b48748203/13213cb1-1d2a-46d0-b18b-c4d6337794f9")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -8566,7 +8539,6 @@
 				)
 			)
 		)
-		(path "/520a4f6f-2b64-4e11-936b-579378d801d9/156cbb6b-bc46-495c-a419-8155cc02fb77")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -8902,7 +8874,6 @@
 				)
 			)
 		)
-		(path "/2664c82d-f96e-4730-aa05-8e5a8e12bc92/7e86adf6-7f88-470a-9087-c5902d82cc61")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -9197,7 +9168,6 @@
 				)
 			)
 		)
-		(path "/941abe40-8ec5-49f4-b309-8d4df04dc1a9/1619298f-aea4-45f8-b5bb-711288b28e4f")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -9420,7 +9390,6 @@
 				)
 			)
 		)
-		(path "/5e8df782-8539-40e7-bb38-a3a6e0bba619/cf16768c-3012-4ff8-a06f-b6a9328bac71")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -9803,7 +9772,6 @@
 				)
 			)
 		)
-		(path "/4bb17890-e22d-4c65-a998-bf7c18d1ed31/7bf6087c-e876-4d48-9a82-1064e0b627d1")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -10062,7 +10030,6 @@
 				)
 			)
 		)
-		(path "/5c55e706-3325-47fa-a350-eeedc02dd361/8f3516dd-f91d-466b-9110-161eb2dce268")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -10381,7 +10348,6 @@
 				)
 			)
 		)
-		(path "/d22a5a5e-cbde-44bf-a9b4-607d1de51565/853c1c59-2848-4962-8a93-102efd76157c")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -10699,7 +10665,6 @@
 				)
 			)
 		)
-		(path "/4caaadf6-169f-47d8-942e-d6d3a0f0363e/cb1e18e2-746c-4863-9a2e-d9cafdfc2ed1")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -11032,7 +10997,6 @@
 				)
 			)
 		)
-		(path "/2ca60410-119a-4527-a2b9-363cf8c4ee93/68a08b0c-2d66-4761-9c38-c7bed43b4f6f")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -11360,7 +11324,6 @@
 				)
 			)
 		)
-		(path "/1cfbb334-eeea-4e94-b65f-563fdef23e8b/76ffb925-75c6-43b8-88f7-fd5527f95b27")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -11677,7 +11640,6 @@
 				)
 			)
 		)
-		(path "/55833fb1-0746-4c75-93ad-ba8fda708e98/45e1083b-d52c-4666-b469-79620beb4451")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_arc
@@ -11867,7 +11829,6 @@
 				)
 			)
 		)
-		(path "/37dd5646-ac9c-4fa8-9ade-f22d9121bc93/287d7a6e-383c-4212-a60d-7ada59ee6709")
 		(sheetname "TVS_Diodes")
 		(sheetfile "TVS_Diodes.kicad_sch")
 		(fp_line
@@ -12089,7 +12050,6 @@
 				)
 			)
 		)
-		(path "/458e539b-a736-442c-bd42-6fbde4e3857e/29bb94d0-a545-4721-851c-aaeb39eec6c4")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -12289,7 +12249,6 @@
 				)
 			)
 		)
-		(path "/e8086e90-6b0f-437d-a844-33f9920ef841/38753858-db81-4d4d-819a-9e99442ff7e0")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -12477,7 +12436,6 @@
 				)
 			)
 		)
-		(path "/accd2e93-00fd-447e-a26d-5ae730252e41/471bd090-9086-4bae-9a71-5b82ff4c02f7")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -12800,7 +12758,6 @@
 				)
 			)
 		)
-		(path "/24f86e45-be6c-414f-b0f6-944eb91b23e1/4801ebca-8f6b-46a5-b9ac-bfdef6b0e33d")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -13116,7 +13073,6 @@
 				)
 			)
 		)
-		(path "/56e6591d-9b3a-4d26-be3c-14531b011513/d8a3923b-47ef-4470-bda1-7a8e662e9067")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -13457,7 +13413,6 @@
 				)
 			)
 		)
-		(path "/f0a83d4e-1c29-4bfd-996e-f6ae7f6ff3a8/88e5eb39-612b-4e76-b4d1-87a69812d96a")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -13851,7 +13806,6 @@
 				)
 			)
 		)
-		(path "/18f40dd8-70d3-471a-8abe-87877381550c/a8b83caf-7265-4a4e-a81d-bb15047482a2")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -14196,7 +14150,6 @@
 				)
 			)
 		)
-		(path "/054938fc-653b-45de-b3a7-066faccba28e/5846aef2-6b15-4549-a748-f151e1c7c6a8")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -14487,7 +14440,6 @@
 				)
 			)
 		)
-		(path "/36ef1284-c7ec-4b0b-85d2-2c427a54e0b4/b82722cf-bfb3-4f9d-9f67-f02446e89050")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -14839,7 +14791,6 @@
 				)
 			)
 		)
-		(path "/edd521bb-a5d6-4060-a2f3-6328162ceaed/1b692738-e334-443c-a357-a29c4eb70ea6")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -15141,7 +15092,6 @@
 				)
 			)
 		)
-		(path "/8d9c1bb5-d383-427c-85e7-47540c70c5db/f804ac99-270b-4ac5-afe4-dd495c875e96")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -15465,7 +15415,6 @@
 				)
 			)
 		)
-		(path "/aae4a4b2-ccb6-42d7-b514-79a1c75dcbd5/3d6592f2-e116-4581-afbc-c4ced1365d92")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -15637,7 +15586,6 @@
 				)
 			)
 		)
-		(path "/3b649c49-5b81-4bbe-b300-29bf5e7c4399/8addf18e-9303-4e0b-a050-faa8bda2fda5")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -15809,7 +15757,6 @@
 				)
 			)
 		)
-		(path "/8df27275-cbdb-40d1-a327-e47ff5750b6b/f4fb2eb0-c63d-4f3f-91ba-3883c805df30")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -16115,7 +16062,6 @@
 				)
 			)
 		)
-		(path "/d8267dfa-b1dc-4018-baf4-82cf30bbc216/b8827a88-a054-4d1d-bf30-6b237c871470")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -16340,7 +16286,6 @@
 				)
 			)
 		)
-		(path "/9af8d6c3-ce2e-49a8-bac0-aefedbf61483/c0029ac7-c374-4d7c-b00e-da5e7be0f98a")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -16648,7 +16593,6 @@
 				)
 			)
 		)
-		(path "/a507d44e-c9be-4392-8a48-eacd48ae99c8/9643b0f3-009b-40da-b26d-333bc21f7051")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -16914,7 +16858,6 @@
 				)
 			)
 		)
-		(path "/9193303d-5a71-4834-bdee-1e88255e137b/42fe9ce7-406c-40a6-8050-e333823e9e50")
 		(sheetname "TVS_Diodes")
 		(sheetfile "TVS_Diodes.kicad_sch")
 		(fp_line
@@ -17136,7 +17079,6 @@
 				)
 			)
 		)
-		(path "/59bece15-219e-459a-8a5f-ae2706fda047/afea3c7a-bc15-4c54-ae08-6371c38a32ac")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -17327,7 +17269,6 @@
 				)
 			)
 		)
-		(path "/82389395-3104-4d7f-8450-4ee6c4a85f4f/470a5ffb-3238-4a02-ac2d-c3aeeea0fe64")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -17647,7 +17588,6 @@
 				)
 			)
 		)
-		(path "/c60612c3-f15e-44ab-869a-5bc4468e65b5/b9d00354-2e55-46ff-9560-6d3a4c646ff8")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -17896,7 +17836,6 @@
 				)
 			)
 		)
-		(path "/1125c9fc-661b-4f33-8119-5a9d0c9af06f/5bde7d68-2906-4acd-8122-a1f3470811d2")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -18237,7 +18176,6 @@
 				)
 			)
 		)
-		(path "/ba23418c-6d84-4ee3-9a7e-91e569a15e70/76b44db1-60fa-4a50-bd8e-a83bcfb02623")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -18514,7 +18452,6 @@
 				)
 			)
 		)
-		(path "/1aed218a-8ca4-48d1-b1bb-f338632caa37/ec2fcd10-4dbd-409d-af4d-453594fbe12b")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -18843,7 +18780,6 @@
 				)
 			)
 		)
-		(path "/73fba435-246c-4318-9f47-ec99dc449e95/5c3500d5-1ef0-4b9c-80dd-459c3fc61bbe")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -19185,7 +19121,6 @@
 				)
 			)
 		)
-		(path "/952a2267-729e-417d-8cee-349d9bbe6e57/47aa5056-2612-42d2-9988-13889af8e894")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -19525,7 +19460,6 @@
 				)
 			)
 		)
-		(path "/43b2b655-3829-46f3-bca8-6ac2e0f3d28a/dd93f939-dcc6-42aa-be1c-50046ce8a455")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -19915,7 +19849,6 @@
 				)
 			)
 		)
-		(path "/ea2aa92a-5986-49de-93a9-d2a6360dcca1/88515e4a-ddf8-417b-83ba-88acf2c78a0a")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -20201,7 +20134,6 @@
 				)
 			)
 		)
-		(path "/d2cb1187-99de-44db-9018-011ddf630157/2f82c879-f159-4f8a-924b-9bf6a71afef1")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -20391,7 +20323,6 @@
 				)
 			)
 		)
-		(path "/630d04b5-1415-481c-9e4c-75ea4db93f27/91981a4e-3a5e-4a67-8822-163450134cca")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -20581,7 +20512,6 @@
 				)
 			)
 		)
-		(path "/bfcd1a67-89c4-48d4-83a1-68ab5d1e89b9/0fb50928-084c-44f1-88d2-df161b43754b")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -20832,7 +20762,6 @@
 				)
 			)
 		)
-		(path "/60e43ea1-4cff-403e-b792-285f39cab95a/f07faf7b-6657-4fcc-bf14-a242836ec119")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -21022,7 +20951,6 @@
 				)
 			)
 		)
-		(path "/9c89a633-8725-441a-9059-3aa1730b628e/500f9049-f2f2-43f0-9a79-0e41b6c6f634")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -21273,7 +21201,6 @@
 				)
 			)
 		)
-		(path "/136b3d69-bed5-4a32-97d5-b06530f91422/0800f19f-43ff-46da-b98e-348a385f3a90")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -21596,7 +21523,6 @@
 				)
 			)
 		)
-		(path "/1a39f93f-e514-4b78-8849-88b21e907ef0/0d9e3330-3fef-4a4d-a3ae-87328d3499af")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -22122,7 +22048,6 @@
 				)
 			)
 		)
-		(path "/0697c532-ce3f-46b0-9b1c-ce388db4e290/3f481ff0-ca53-4132-a7a9-0fec5a874af6")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -22643,7 +22568,6 @@
 				)
 			)
 		)
-		(path "/a0e62558-1c6f-4f4c-a301-0eb6314e48fb/e40d83af-2da4-4942-8f1f-082109f7e2d5")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -22966,7 +22890,6 @@
 				)
 			)
 		)
-		(path "/b22191f8-9806-4765-b622-efa05b7040d2/c1509b90-de50-4e65-8d91-deda742bcc89")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -23155,7 +23078,6 @@
 				)
 			)
 		)
-		(path "/a5c156cb-ac43-4fa6-8735-6b07a228ad72/55f16878-eadd-41c2-b955-3b02a19d2db6")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -23500,7 +23422,6 @@
 				)
 			)
 		)
-		(path "/276c20ec-ce79-4205-9c51-33a23042c1d3/930fe090-8bb5-4013-9a57-1029acdf783d")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -23839,7 +23760,6 @@
 				)
 			)
 		)
-		(path "/2325252e-8fe2-4347-900c-f7159779eb76/7d8a074c-b801-455a-969d-811d33314987")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -24011,7 +23931,6 @@
 				)
 			)
 		)
-		(path "/66877b0f-9c77-4c69-ae03-d87e0305621c/e8e8e6d4-8127-4a24-9c0c-a20ac3e4d0f8")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -24283,7 +24202,6 @@
 				)
 			)
 		)
-		(path "/4156d35b-8172-4631-9eb3-04d65f3ee0bc/cd0cef0a-8f56-4ee4-b4db-a4bc29d1c242")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -24631,7 +24549,6 @@
 				)
 			)
 		)
-		(path "/372e5c8c-bbfb-427d-9f46-62085c9227b1/e7244c19-091d-4b85-a3c2-9f048036c91a")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -24938,7 +24855,6 @@
 				)
 			)
 		)
-		(path "/f538f78c-73b8-42ea-b890-f493cf1c3d97/54d75f96-b9c8-4e2c-af96-f7fcedded41d")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -25255,7 +25171,6 @@
 				)
 			)
 		)
-		(path "/269a3b6b-8aed-4bef-9af7-01c1544b32f1/da026a1d-d7f0-4091-9091-ef32aec3b69f")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -25570,7 +25485,6 @@
 				)
 			)
 		)
-		(path "/593e5ab6-8f01-4d51-a7dc-1e262b8cdc49/39bf2482-6a97-48e1-bfb2-1837d4554287")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -25905,7 +25819,6 @@
 				)
 			)
 		)
-		(path "/8f15347f-b06a-457a-920e-baf6ffb73854/1a3c0be2-f740-430e-a1bb-ec1f2f483dbd")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -26137,7 +26050,6 @@
 				)
 			)
 		)
-		(path "/91c127fc-1920-4c95-a21e-bc7701fa8285/1817bdca-0dd1-4e8c-818e-9f034db4270a")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_arc
@@ -26327,7 +26239,6 @@
 				)
 			)
 		)
-		(path "/45aa2962-a4f4-4a1a-a3d9-ce87e52d81b4/98f2e828-614b-4a1a-9173-cdaca8155098")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -27000,7 +26911,6 @@
 				)
 			)
 		)
-		(path "/84c1d3f5-b433-4c93-be38-811069db3f03/52687fdc-51d1-467d-8e9e-575ac136984c")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -27333,7 +27243,6 @@
 				)
 			)
 		)
-		(path "/f6ed72eb-bf5f-4e32-b423-16ca6dbf960a/179d3d89-e43e-49af-bf49-ecac3fd112d0")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -27556,7 +27465,6 @@
 				)
 			)
 		)
-		(path "/ee5770e5-284a-4659-a835-31ef320cd772/8bd53f53-ec92-484a-9f9e-4b7d4ece76a5")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -28068,7 +27976,6 @@
 				)
 			)
 		)
-		(path "/822b9682-d4fa-4140-a1f0-9f5cfec47b4c/1e760b7a-f604-410e-899a-bd589aa74ab6")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -28329,7 +28236,6 @@
 				)
 			)
 		)
-		(path "/30655534-f1d9-480a-aec2-6b78ff9c31ff/573946d6-d469-4b78-a39d-0422e9131d5f")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -28625,7 +28531,6 @@
 				)
 			)
 		)
-		(path "/ba84b1f1-8e47-494c-9bd1-438697519ebd/30ac8d0e-08a7-4276-a0f6-9af1b62b0bc7")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -28796,7 +28701,6 @@
 				)
 			)
 		)
-		(path "/e4da595c-115e-491b-a912-11220a079766/4f2246a1-652e-4da5-91c3-7bf6022d9b61")
 		(sheetname "TVS_Diodes")
 		(sheetfile "TVS_Diodes.kicad_sch")
 		(fp_line
@@ -29018,7 +28922,6 @@
 				)
 			)
 		)
-		(path "/b8cd8b92-2068-4dee-b7f6-cd7b99b88fd8/09ca037a-8af5-4a31-8873-b2a1fe3625e2")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -29271,7 +29174,6 @@
 				)
 			)
 		)
-		(path "/aad70438-053f-42d4-b32d-4a28a4cf52a2/7c2f9fcb-e183-4e61-a5f5-30b6e320fa59")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -29944,7 +29846,6 @@
 				)
 			)
 		)
-		(path "/6d2f6d7d-706c-46ed-952f-a0f53671da50/77bb2a83-1a95-4583-a7f7-797fb4196139")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -30134,7 +30035,6 @@
 				)
 			)
 		)
-		(path "/8e4d310c-0af3-4adf-bb1c-3b690ffe9a7a/8f22dc25-f81a-4cab-960c-feaa60fe1afa")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -31299,7 +31199,6 @@
 				)
 			)
 		)
-		(path "/cdad9359-55e0-417d-8cd9-72ebe69ebfd8/23e09189-a1c8-4bee-a003-e44b098f92da")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -31642,7 +31541,6 @@
 				)
 			)
 		)
-		(path "/8385c9b4-695a-413a-88c4-7d63c169ae4e/5bfa2456-7fb1-4974-99e4-50fcaab4217a")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -31964,7 +31862,6 @@
 				)
 			)
 		)
-		(path "/7542846f-99de-4098-9263-0f16a8eab574/0ca48364-7e06-4260-bc69-d728b5d58621")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -32242,7 +32139,6 @@
 				)
 			)
 		)
-		(path "/2976c69d-7268-4ce3-9c01-993ef15a782f/1a16dd90-3cd8-4796-bc81-c6e91229ea1d")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -32432,7 +32328,6 @@
 				)
 			)
 		)
-		(path "/db14f935-fd09-4119-86d3-2c2e48cf9ecc/ca7f6210-1af2-4b84-b7c1-d76c82b53ff2")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -32641,7 +32536,6 @@
 				)
 			)
 		)
-		(path "/8bbe4d0a-ed91-4a32-a78b-6388f51f3a4c/7f254411-e819-4e90-8ca6-6e153298bc5e")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -32928,7 +32822,6 @@
 				)
 			)
 		)
-		(path "/30c9e143-7a29-44cd-9c02-380723573c5c/3514de30-dca2-4175-9624-15dc32c261a7")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -33118,7 +33011,6 @@
 				)
 			)
 		)
-		(path "/c84f0f02-20ae-453d-b6e9-2eb23fa7d970/2d9be997-edff-4b60-9025-262d983f8a9f")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -33420,7 +33312,6 @@
 				)
 			)
 		)
-		(path "/704577a6-bbc0-4460-abe5-2ce944c2657b/f6cc4e9c-e021-48b3-a380-fc73fba8278b")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -33705,7 +33596,6 @@
 				)
 			)
 		)
-		(path "/1b5fef1a-c0e4-41b2-84c1-6fb268245c96/39219c8f-42cb-485a-82f7-c31c1ce95493")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -33886,7 +33776,6 @@
 				)
 			)
 		)
-		(path "/183aa973-977f-44a7-9757-1b9c90f8a916/e4ace277-aa3d-4f31-90b8-029b35765d08")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -34205,7 +34094,6 @@
 				)
 			)
 		)
-		(path "/5652181d-803c-418f-b88e-0167afb4c241/9cf2f354-9ade-47ae-8133-e7904a069195")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -34525,7 +34413,6 @@
 				)
 			)
 		)
-		(path "/32750f7f-bbec-4d8b-89e5-4bcd0fa2ae75/3725234c-d541-47a7-b511-ed1785c24816")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -34903,7 +34790,6 @@
 				)
 			)
 		)
-		(path "/d0131f32-0926-4ef8-bad8-d0d4c05e3f22/6c341605-e77c-4f39-b263-91b64cb76f81")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -35215,7 +35101,6 @@
 				)
 			)
 		)
-		(path "/8b63adbb-a8bb-40c1-b983-95973f9461cd/a94f5d15-545e-4511-af93-10dd64f9362a")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -35526,7 +35411,6 @@
 				)
 			)
 		)
-		(path "/53caeb21-5e27-4ea3-a3d4-282518e00a17/d9fb4356-be60-4c09-b3f5-2b4639bbc16d")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -35916,7 +35800,6 @@
 				)
 			)
 		)
-		(path "/a926507a-83e9-4359-9494-71e377f25409/a77d3114-202e-4203-ac19-63f6ef1b99ad")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -36228,7 +36111,6 @@
 				)
 			)
 		)
-		(path "/a4473c2b-7141-4524-8ccb-2ed13b421804/28948a93-060c-4c77-8c92-afb257974bf9")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -36520,7 +36402,6 @@
 				)
 			)
 		)
-		(path "/cd9e49b3-29a5-40db-adcc-820029e26fc7/ff15ad1e-c07e-4801-a763-de35f02bfb32")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -36743,7 +36624,6 @@
 				)
 			)
 		)
-		(path "/ed3310c8-184f-4a4b-a77d-588d374cd489/4de09dc8-665b-4908-85c4-3369844dedb8")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -36870,7 +36750,6 @@
 				)
 			)
 		)
-		(path "/d868765a-10da-4d36-879a-d7cedb000a42/0fcd174f-bf38-44fe-8d3b-83f7a6148098")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -37203,7 +37082,6 @@
 				)
 			)
 		)
-		(path "/e5af11cd-6f80-4cdc-9860-841069572c4f/dce6f408-8257-43d2-8425-701f6c8c0b2b")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -37525,7 +37403,6 @@
 				)
 			)
 		)
-		(path "/1ee1df5a-3797-4d59-b0fa-475b82be1c0a/be47e9df-0dfc-4706-80c4-a45a9f9e04a9")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -37697,7 +37574,6 @@
 				)
 			)
 		)
-		(path "/675e633d-df5b-41f8-b66f-69d02b9a3c5f/bb0a9115-c807-438c-91b1-bf17860ef5a9")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -37971,7 +37847,6 @@
 				)
 			)
 		)
-		(path "/445ada13-36ec-4704-8a75-2230dd67bb53/842323f3-6991-4081-b939-d36f1fe36b68")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -38280,7 +38155,6 @@
 				)
 			)
 		)
-		(path "/05f570b5-3e1c-4459-9844-62f9d3e71ce2/a9f7063d-2146-44a4-9710-c2fb48622ead")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -38570,7 +38444,6 @@
 				)
 			)
 		)
-		(path "/998500df-8f0c-4579-82cf-6b2fdd822d0e/49d67b67-a158-4c34-bf34-34168d58f12c")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -38890,7 +38763,6 @@
 				)
 			)
 		)
-		(path "/9e9602c2-f037-406d-8469-5748089e8ef6/f72a4aab-f33f-4a39-be64-682b0760bd34")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -39542,7 +39414,6 @@
 				)
 			)
 		)
-		(path "/5e012991-b8f0-437b-8b59-f3c6d55cc78c/a4e866d6-f74c-4e1a-a3bb-e3e0b2755cf3")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -39745,7 +39616,6 @@
 				)
 			)
 		)
-		(path "/c5fb94f3-c7c5-47fc-b6cb-cddae06da946/a5402aff-a6e9-48b4-9d84-4a9185e8e6cc")
 		(sheetname "TVS_Diodes")
 		(sheetfile "TVS_Diodes.kicad_sch")
 		(fp_line
@@ -39967,7 +39837,6 @@
 				)
 			)
 		)
-		(path "/e08021b4-e5fa-4094-b8d9-fcb7e7480b90/043ec61f-5e29-4b6d-9875-fee97f995c17")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -40295,7 +40164,6 @@
 				)
 			)
 		)
-		(path "/74a793d3-b50d-493b-9bbf-5ce2bf0efdf1/943c2db1-2b42-4e70-a5b1-b2f8e91af056")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -40625,7 +40493,6 @@
 				)
 			)
 		)
-		(path "/204793ae-e5f5-44f4-a4e9-0de023729307/f555245f-48fd-4d1e-889f-11c23ffe99ca")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -40961,7 +40828,6 @@
 				)
 			)
 		)
-		(path "/b2b526e0-67ab-429e-9c00-344c3719cbf0/802acb75-994a-4dd2-b0f0-d168a191cc64")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -41302,7 +41168,6 @@
 				)
 			)
 		)
-		(path "/b2df176b-9477-42c3-a000-5fdb9d69777b/d35fcbde-437c-4b1d-acb4-bff0a84f90bd")
 		(sheetname "MemoryLatch")
 		(sheetfile "MemoryLatch.kicad_sch")
 		(fp_line
@@ -41586,7 +41451,6 @@
 				)
 			)
 		)
-		(path "/43a56a01-ed12-4e7c-a827-c17ea6515700/e2b0c9a1-cb82-46e3-a568-f5c0822a7cdd")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -41923,7 +41787,6 @@
 				)
 			)
 		)
-		(path "/8d4b3267-3a50-4635-985e-362043cbcf11/96d8d4dc-7d29-4e5e-a918-e40ba00ee04d")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -42207,7 +42070,6 @@
 				)
 			)
 		)
-		(path "/92a0220c-e2de-4f6a-a8b0-29decc5cdaeb/edbe2c53-b78e-4cdb-889b-f5c581cededd")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -42531,7 +42393,6 @@
 				)
 			)
 		)
-		(path "/b933d096-c7bc-4617-80e8-f3ff17c01484/f77e6939-7e1b-49eb-af94-5673bdcd621a")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -42909,7 +42770,6 @@
 				)
 			)
 		)
-		(path "/3bb66f18-68de-404c-a4ee-83033703a525/b46dd31e-40a5-4f23-a51e-db6bc6e893fd")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -43259,7 +43119,6 @@
 				)
 			)
 		)
-		(path "/0c8bd2b0-0016-4e76-92e7-35f1dc9ca741/bbb1e7fc-2feb-4a15-bf94-7c765023c2ca")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -43585,7 +43444,6 @@
 				)
 			)
 		)
-		(path "/04e3967c-853a-446c-9ca4-49983bfbc571/afcb0c0b-c393-45f4-ad9d-2159a165d1f3")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -43912,7 +43770,6 @@
 				)
 			)
 		)
-		(path "/10616f8b-9c0c-4b1c-84a8-ed75c60f30ec/cc6cb181-8d2a-402c-8024-f1ae7030d216")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -44163,7 +44020,6 @@
 				)
 			)
 		)
-		(path "/ae95b0d1-8a4d-4f64-b3e5-bdc2e200bf7f/89d99024-3066-47c0-ab56-74a85e015f4d")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -44352,7 +44208,6 @@
 				)
 			)
 		)
-		(path "/f2f5f769-64ec-425f-9bd3-f67d270b7eb7/126c264d-3da2-46a0-a45d-7d4838685174")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -44676,7 +44531,6 @@
 				)
 			)
 		)
-		(path "/c1df8453-9d4f-47de-b6ce-04dacef7a8d5/25932991-3836-4a10-9b64-595a57729677")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -44879,7 +44733,6 @@
 				)
 			)
 		)
-		(path "/04783fdc-ea9e-4a2e-a87b-1510f0f3bad8/8c270658-02c1-41c5-a129-5396e90d8249")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -45069,7 +44922,6 @@
 				)
 			)
 		)
-		(path "/b9f282cb-8af3-45fa-a776-0aed6aa3bab5/59c2d408-8569-478e-90b4-a642c60d54bb")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -45478,7 +45330,6 @@
 				)
 			)
 		)
-		(path "/cb9d6d5a-f8a0-4566-80ff-7ca5bd3baa16/ff2f9051-6a72-41a8-9eb1-d2832cd2a8b0")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -45784,7 +45635,6 @@
 				)
 			)
 		)
-		(path "/2258de81-c8cb-460b-a426-3a3ce1d1868d/79978fb4-3b60-42a6-958c-094d9d72c2ad")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -46134,7 +45984,6 @@
 				)
 			)
 		)
-		(path "/bf4de232-29c9-433e-b693-1117fdb44ec9/7c3156e2-3001-4940-8ed3-50fcbb206248")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -46453,7 +46302,6 @@
 				)
 			)
 		)
-		(path "/6b65a973-d6a2-4a24-9b95-b65bd299b5a4/d27cffd3-5839-472c-9d05-63c6b19ad080")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -46798,7 +46646,6 @@
 				)
 			)
 		)
-		(path "/a76c81a7-1f6a-4406-ac1d-fc347e945fa8/a6c32bd2-c9a0-4805-b638-fedd0d049637")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -47021,7 +46868,6 @@
 				)
 			)
 		)
-		(path "/218010d7-9b92-4e7c-bbcb-ab053f5e1302/d72b9a9d-9391-4299-bd71-2104a61ce707")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -47344,7 +47190,6 @@
 				)
 			)
 		)
-		(path "/e44c2187-066a-4aaa-a7a6-4ef16815906c/3fe03d34-9600-4fdf-a9d2-38cffa607822")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -47646,7 +47491,6 @@
 				)
 			)
 		)
-		(path "/8c54f1cd-a5a6-4a69-961e-7bb0a42f1ed4/ae04cc5e-d3f3-44ec-bdd3-a15bf9dcee4a")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_arc
@@ -47836,7 +47680,6 @@
 				)
 			)
 		)
-		(path "/657c7a39-1ec9-4786-a492-3ca84687dbc5/8f5a1bc1-93e2-457b-bcef-5a9f8197bbf8")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -48166,7 +48009,6 @@
 				)
 			)
 		)
-		(path "/3f8defa4-5471-4526-ad7d-68718de17608/7a81bde3-4df0-451a-8fb2-730719eeb9e0")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -48437,7 +48279,6 @@
 				)
 			)
 		)
-		(path "/a0d7a454-2bc0-4cb7-87f5-446a122bc14b/a23155f9-00cc-4c0b-b6a0-083c8734e525")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -48926,7 +48767,6 @@
 				)
 			)
 		)
-		(path "/af4e36c6-a4a2-4ea6-9dcd-5f7fdbb84806/b701d1d9-6734-4e5c-b666-02f1c9d7e7ba")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -49326,7 +49166,6 @@
 				)
 			)
 		)
-		(path "/c06a8fcf-e991-43b5-a7bc-3adc1f08581b/1465e73b-3204-4f71-9e5a-9e7b88b124d2")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -49660,7 +49499,6 @@
 				)
 			)
 		)
-		(path "/356e5b1f-e7f1-4186-8bc7-9684675f4910/5f3f72de-0995-462c-a88b-5ce3ccff77d3")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -49931,7 +49769,6 @@
 				)
 			)
 		)
-		(path "/e76296aa-775d-42db-870b-28d8b0e3fc94/5c4c8b48-0bf8-4c95-8639-e825644e4224")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -50100,7 +49937,6 @@
 				)
 			)
 		)
-		(path "/05692f99-b33a-4aff-afee-8885501b4ef1/126ecbcb-e829-4057-b9ae-b7b96ffef872")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -50297,7 +50133,6 @@
 				)
 			)
 		)
-		(path "/79a70884-39a7-4e04-85b2-5a834ef5e86d/fcea92fa-c4c5-4564-918e-c57efe831bcd")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -50626,7 +50461,6 @@
 				)
 			)
 		)
-		(path "/245202b7-19ae-4681-afd6-f0258cc9152e/62160962-5c01-4157-8b57-b2c2d13896c9")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -50790,7 +50624,6 @@
 				)
 			)
 		)
-		(path "/1fd81cd6-fae2-43aa-9418-45eeffd66d50/05ad9d02-3ce2-4210-aee3-1d9ae50a1c2d")
 		(sheetname "5V_Buck")
 		(sheetfile "5V_Buck.kicad_sch")
 		(fp_line
@@ -51120,7 +50953,6 @@
 				)
 			)
 		)
-		(path "/ae76bc40-7679-4132-a019-97d6880ddf57/77630353-a8c4-4687-9d16-2fb90d8b2d28")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -51401,7 +51233,6 @@
 				)
 			)
 		)
-		(path "/3aa4fb3d-839d-416d-b30b-88a77ad6c532/9be47191-3b99-4ae0-87f8-47c3a4ff1b77")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -51927,7 +51758,6 @@
 				)
 			)
 		)
-		(path "/f420a447-c144-440f-aca2-150023ee84f5/f056c83a-ba1b-4f40-8d63-4bf7c34ded6e")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -52179,7 +52009,6 @@
 				)
 			)
 		)
-		(path "/5e44ea03-9df1-4e07-a016-2cc6524612d1/f092cdb2-c01f-47eb-b6fa-b15e9b5475c5")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -52509,7 +52338,6 @@
 				)
 			)
 		)
-		(path "/595de67e-d5da-44ff-9787-43b22878f5af/5a297e6f-d4b1-4bd3-a5b2-9afff0e55c0a")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -52699,7 +52527,6 @@
 				)
 			)
 		)
-		(path "/6ef64b38-8993-4139-b01c-732a0fd0e1ea/3c1601de-4b73-4d2c-a84b-85845aeec570")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -53045,7 +52872,6 @@
 				)
 			)
 		)
-		(path "/eb416d45-a631-4c86-8944-45824ee86f60/84876a89-5158-4ef2-b7d1-a2eb87620130")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -53369,7 +53195,6 @@
 				)
 			)
 		)
-		(path "/c00beb70-37e4-40c4-871d-d443a67768bf/5c7dc5aa-97a0-4c41-a08a-e50226beb61a")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -53756,7 +53581,6 @@
 				)
 			)
 		)
-		(path "/7c18fe6b-8ca9-429f-bde8-3cb0b9213840/90e2cb24-a82e-47de-8c34-3ffebddf34a4")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -53928,7 +53752,6 @@
 				)
 			)
 		)
-		(path "/d4f8a57e-3288-4135-93c2-f00443169f6b/1c449088-929d-48e3-b519-7304c6507155")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -54273,7 +54096,6 @@
 				)
 			)
 		)
-		(path "/bb825e99-627a-4a27-a14f-08200baa20b9/c3f5f179-d85c-4d27-b5cc-e3622c4860ff")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_arc
@@ -54463,7 +54285,6 @@
 				)
 			)
 		)
-		(path "/74a4c215-90c2-4d9b-ae85-13a7a5d9b585/20caa31a-3d58-4c16-8869-4e8d4f542d83")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -54806,7 +54627,6 @@
 				)
 			)
 		)
-		(path "/69075d28-c521-4b75-9d4f-0aaa4c5d275a/05fda305-4175-4e57-bbae-13a9cd3d574d")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -55073,7 +54893,6 @@
 				)
 			)
 		)
-		(path "/93b08ee5-f7a4-45a4-868d-3f1e739106ac/96cb882e-ab41-4592-804d-33bbe481f7c8")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -55411,7 +55230,6 @@
 				)
 			)
 		)
-		(path "/2adce309-f978-4f54-8776-65c1038d953e/ae85ec58-2080-453c-8235-ae7c894ef111")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -55620,7 +55438,6 @@
 				)
 			)
 		)
-		(path "/ab314127-d8a1-4edf-bf2d-ae1bfd043f0c/9c836890-81f9-4296-a3f4-6632ec679075")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -55809,7 +55626,6 @@
 				)
 			)
 		)
-		(path "/5adb2995-3e5c-4c1d-93f0-f460acc8f2f1/170f921c-e232-455e-8675-5ed69d93a1e2")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -55985,7 +55801,6 @@
 				)
 			)
 		)
-		(path "/8b435a41-2a24-487a-af3c-4f80f941de3a/2115dda9-4f1b-4f21-bfca-ef7cd8968b60")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -56267,7 +56082,6 @@
 				)
 			)
 		)
-		(path "/d578c89b-56dc-43a2-8763-7964e573c0a0/b70e0b77-bce7-4bb8-9c6e-73b5c06aa0c5")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -56566,7 +56380,6 @@
 				)
 			)
 		)
-		(path "/321bb493-6d9f-4475-b42a-00d430c2acbe/ee965420-a6c9-46c3-b441-bfa260e3f7f8")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -56905,7 +56718,6 @@
 				)
 			)
 		)
-		(path "/6e68851e-94aa-40dc-8c3c-b8bfcac8e084/895e80aa-91dd-4862-924b-5dc3d9e11920")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -57381,7 +57193,6 @@
 				)
 			)
 		)
-		(path "/79a428bc-1f07-4593-ad48-4ce0c54e6456/49a51b3e-24bc-4f9f-835a-8e3447b88488")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -57780,7 +57591,6 @@
 				)
 			)
 		)
-		(path "/7af2eba9-2a43-47e7-a866-8f957eba05a8/67259236-e41c-4cd8-b3f0-10c3e1338986")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_arc
@@ -57970,7 +57780,6 @@
 				)
 			)
 		)
-		(path "/d9390334-303e-4199-b330-9f108cee97a4/129fc7bb-f567-447f-84ce-85a12d983f40")
 		(sheetname "3V3Primary")
 		(sheetfile "3V3Primary.kicad_sch")
 		(fp_line
@@ -58160,7 +57969,6 @@
 				)
 			)
 		)
-		(path "/aa39c7fc-abd0-4123-a601-ef821fec6628/4ebcff8f-7805-466e-82f8-db2d36ea1065")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -58350,7 +58158,6 @@
 				)
 			)
 		)
-		(path "/f0ca941d-2654-492a-9786-0327236b685e/6387128f-cd34-472a-bc21-e586b085de19")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -58539,7 +58346,6 @@
 				)
 			)
 		)
-		(path "/90e6d7a0-7a6b-4db9-9887-7af0c4fbd517/3d554083-11ff-4237-965e-db430136435d")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -58838,7 +58644,6 @@
 				)
 			)
 		)
-		(path "/c1c5417c-f23c-4556-b60e-075032df8708/bf4f5bd5-0ad3-4257-9bd5-affed0348e09")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -59028,7 +58833,6 @@
 				)
 			)
 		)
-		(path "/ec05fa74-6922-4f53-b984-753316fc243a/a548aea3-9a4b-4ab4-8335-b191d09dd0ca")
 		(sheetname "STM32")
 		(sheetfile "STM32.kicad_sch")
 		(fp_line
@@ -59280,7 +59084,6 @@
 				)
 			)
 		)
-		(path "/f25b73dc-c774-4aac-ae86-293357794176/836397df-1830-4c52-81d9-0144bc830607")
 		(sheetname "12VPrimary")
 		(sheetfile "12VPrimary.kicad_sch")
 		(fp_line
@@ -59603,7 +59406,6 @@
 				)
 			)
 		)
-		(path "/9f3c14e3-a92a-46b2-9247-6b911aabe72f/2b958513-6bd3-4150-baac-6daf2049450e")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -59751,7 +59553,6 @@
 				)
 			)
 		)
-		(path "/1c801bf1-3af9-44f4-b779-4704fee68ed0/12b5c6ce-b1be-4b8f-b747-3603d8cf3bf8")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -60076,7 +59877,6 @@
 				)
 			)
 		)
-		(path "/677d2151-3b1e-4fa4-8210-d137479d92b1/95e2b8d7-c629-4fbd-824d-50172204cb75")
 		(sheetname "WatchDog")
 		(sheetfile "WatchDog.kicad_sch")
 		(fp_line
@@ -60374,7 +60174,6 @@
 				)
 			)
 		)
-		(path "/57cc6c9e-ed9f-4276-8e60-b8c234c128a5/11646311-1352-445f-b2c8-14f51fc84c65")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -60623,7 +60422,6 @@
 				)
 			)
 		)
-		(path "/825ac9fb-a0f4-4d06-bc04-c3e7e0d2b4b0/30d3fe34-65df-4893-ac7d-358d5e6d6b4f")
 		(sheetname "3V3_Buck")
 		(sheetfile "3V3_Buck.kicad_sch")
 		(fp_line
@@ -60958,7 +60756,6 @@
 				)
 			)
 		)
-		(path "/bb8b9ef0-9c66-4ea4-bb3d-45731b3d088d/461e59f0-761b-4f14-b550-46f2e09aa1b0")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -61289,7 +61086,6 @@
 				)
 			)
 		)
-		(path "/43aa3668-7c2d-4abe-83e9-e274d0c1c918/e37e2557-5d1a-43df-86e0-5bfdb222130f")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -61478,7 +61274,6 @@
 				)
 			)
 		)
-		(path "/5f35c92d-c117-4a4f-a3e5-7cd0c71d59dd/3c769a12-2830-4485-a079-aa7f28fece5f")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -61876,7 +61671,6 @@
 				)
 			)
 		)
-		(path "/ccf6ce46-4774-49b4-ada3-bef55a7c9c6f/49255601-950d-4487-b7a9-36ace7c4c6a1")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -62271,7 +62065,6 @@
 				)
 			)
 		)
-		(path "/333b94fa-5a6e-4c0f-835b-5d5036fed26d/b90170ed-f075-436d-84a4-c4a85c923758")
 		(sheetname "5VSecondary")
 		(sheetfile "5VSecondary.kicad_sch")
 		(fp_line
@@ -62617,7 +62410,6 @@
 				)
 			)
 		)
-		(path "/8a0ffc82-7b51-4c59-a52f-28daa179be1b/fb68e386-d0e8-4326-b7ec-f901a6cd60bf")
 		(sheetname "12V_BOOST")
 		(sheetfile "12V_BOOST.kicad_sch")
 		(fp_line
@@ -62931,7 +62723,6 @@
 				)
 			)
 		)
-		(path "/5132e92d-60f6-4d6d-a037-aeab49f0dab9/0e4fe1ef-c26d-402c-ba09-8cfd0676511f")
 		(sheetname "5VPrimary")
 		(sheetfile "5VPrimary.kicad_sch")
 		(fp_line
@@ -63269,7 +63060,6 @@
 				)
 			)
 		)
-		(path "/10df792b-4f1b-403c-b87b-514b435ed1f7/6623d1e2-0596-499e-b56f-2d013808dfcd")
 		(sheetname "3V3Secondary")
 		(sheetfile "3V3Secondary.kicad_sch")
 		(fp_line
@@ -63583,7 +63373,6 @@
 				)
 			)
 		)
-		(path "/2bbf8ee6-c433-4fc3-a2fb-a5d05ad443a5/f8c035c5-602d-4864-a15c-9e9740bff557")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -63775,7 +63564,6 @@
 				)
 			)
 		)
-		(path "/2db83e5a-d5a6-4a63-87f9-debfe6e6f3e1/53f742b4-0c52-4f13-a7fb-d451f0b9a7ec")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_arc
@@ -63967,7 +63755,6 @@
 				)
 			)
 		)
-		(path "/113da106-11ea-4753-9a8f-fef908d331c5/3a260f32-5103-423b-8e1e-75190ca7de61")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -64305,7 +64092,6 @@
 				)
 			)
 		)
-		(path "/82b4dfb7-2e5a-4ef3-ba98-10d68afbca25/2d2f2059-5ba0-4b55-b18a-d66ba77bf1de")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -64591,7 +64377,6 @@
 				)
 			)
 		)
-		(path "/fc4d28d3-8416-4173-9b7f-889a7886160f/b5309fe8-de3f-440a-b7e8-4ab49ed064fb")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -64816,7 +64601,6 @@
 				)
 			)
 		)
-		(path "/4248f8d8-a729-49d4-bc5e-08a21b9ae554/0225498b-f38e-460f-8eff-db733513a201")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -65163,7 +64947,6 @@
 				)
 			)
 		)
-		(path "/87bc0793-ec4c-4a36-9996-9e842def040d/e0139f2b-bf5c-4b40-acc7-b7ce285feea6")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -65388,7 +65171,6 @@
 				)
 			)
 		)
-		(path "/25d69a5b-258c-42e7-95e3-9798430c930d/7abbcf1a-1db3-422f-85fe-9959e0c975ac")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -65660,7 +65442,6 @@
 				)
 			)
 		)
-		(path "/0d02893f-77e3-4dad-9932-b9e1a15cf071/913d1a73-a5bf-4307-9774-13be5a37f880")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -65833,7 +65614,6 @@
 				)
 			)
 		)
-		(path "/885d26e3-39a6-44a1-b658-7705d3a1e631/8e6fbd46-ec72-4801-97c5-1429c7d87cef")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -66178,7 +65958,6 @@
 				)
 			)
 		)
-		(path "/855a29da-6224-43cb-8181-80f8db99aacb/4b822ed1-ca3e-4bbc-a4c8-23dc531d84b3")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -66501,7 +66280,6 @@
 				)
 			)
 		)
-		(path "/9337a18e-8888-49b4-bb51-21d88a999c23/4bbe0652-9548-4631-a832-8c5712f05912")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -66674,7 +66452,6 @@
 				)
 			)
 		)
-		(path "/63374541-b7f6-454c-92fe-0d325671c409/df636e85-cb21-4047-af35-18f425a2c37a")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -67080,7 +66857,6 @@
 				)
 			)
 		)
-		(path "/ed05558e-13d5-402a-a65a-1b7ed3d87656/057ca3bb-3b59-407e-b863-62fef50da973")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -67272,7 +67048,6 @@
 				)
 			)
 		)
-		(path "/a48bae39-a461-4eb1-a772-1d04248a61c1/08bb2154-f5d0-442f-9808-3581775dc675")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -67605,7 +67380,6 @@
 				)
 			)
 		)
-		(path "/a58b5a33-2dac-4eb8-9b4a-48df564d434b/cbdba1c7-96d8-4b4e-ad49-3cc6f7c8d57e")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -67778,7 +67552,6 @@
 				)
 			)
 		)
-		(path "/bcb56503-20ae-4716-9663-c8878ed98bbb/63bcf2a8-2c51-404a-9957-7ef7c51b64c2")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -68184,7 +67957,6 @@
 				)
 			)
 		)
-		(path "/b44fcef8-bc0f-4a8b-9490-cda3ede67ac9/9fd944ff-28c8-4b19-b564-d41a68c4acf7")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -68375,7 +68147,6 @@
 				)
 			)
 		)
-		(path "/97adf2c5-11c6-4462-bdfe-cf299fc27ff8/b9380e96-f07a-4115-a85d-52a7fe5d6ecc")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -68896,7 +68667,6 @@
 				)
 			)
 		)
-		(path "/6b0d52af-93e8-47cd-9b9a-2f108fbeaf62/57e37a41-4da1-4ce2-bc16-46c2743613cd")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -69249,7 +69019,6 @@
 				)
 			)
 		)
-		(path "/6a4b4b32-2b25-462a-8541-fe5369844d1b/410e55d1-2bff-4d65-a52c-1e4e22f790e2")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -69597,7 +69366,6 @@
 				)
 			)
 		)
-		(path "/b7b626f7-e2de-449c-9168-d44724d38aff/bb6942f1-4518-4f05-9d3c-ce60dffa1123")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -69789,7 +69557,6 @@
 				)
 			)
 		)
-		(path "/a0260f66-e133-478f-bcc4-cc10affc02e6/cfcebf2b-41d3-42bd-a8ff-48d759bd312c")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -69980,7 +69747,6 @@
 				)
 			)
 		)
-		(path "/7634dffd-4641-4a56-a89a-266f56bc9ccd/8bb71198-3822-4238-9ada-21dfd3dbbf88")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_arc
@@ -70172,7 +69938,6 @@
 				)
 			)
 		)
-		(path "/9b01a488-3cfa-46a6-9066-6e5b2d2492d5/b440a802-a613-44d4-b022-79c8acd519ab")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -70511,7 +70276,6 @@
 				)
 			)
 		)
-		(path "/342121b1-0328-4c74-9dc8-876a554ddd7b/f3d4e4dc-ff2c-4fad-8108-9620bb99cbbb")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -70833,7 +70597,6 @@
 				)
 			)
 		)
-		(path "/48c96fa0-3b90-4c95-9550-08fa1a8683ed/7c5a2bfe-7359-4423-b112-8dbf46d8ddd3")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -71006,7 +70769,6 @@
 				)
 			)
 		)
-		(path "/1894a26c-571e-406c-9b3f-d6bd9b91be0e/7910a385-921c-47ef-a8e8-db9c6354b767")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -71336,7 +71098,6 @@
 				)
 			)
 		)
-		(path "/11efd611-7fda-44a8-bd0e-9bb93086587b/e690683e-bba9-42ae-a892-bb56252db55c")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -71725,7 +71486,6 @@
 				)
 			)
 		)
-		(path "/722e8338-62bd-40d7-9f61-394d1f5ddf64/9e04d6e8-4180-4679-b55c-51af3a842bf0")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -72250,7 +72010,6 @@
 				)
 			)
 		)
-		(path "/c89c1d94-3840-4828-8d16-e4023c4a5e6a/9fbcf4aa-38f0-4b76-8cf0-6da1b9bf079a")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -72540,7 +72299,6 @@
 				)
 			)
 		)
-		(path "/da049704-1cd9-4ddc-b7a2-c1788875ff8d/6f93517a-ae3e-4092-a5b5-48a3974f2b28")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -72713,7 +72471,6 @@
 				)
 			)
 		)
-		(path "/e2c9bab2-b9b3-41b3-8690-e09ef4cea883/ef270ed3-b0ee-4f89-b91a-fa2c89163f4a")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -72905,7 +72662,6 @@
 				)
 			)
 		)
-		(path "/96c61581-34f3-46b8-bc94-92aa716083e0/77956387-ccaf-473f-9135-4c05159818fc")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
@@ -73184,7 +72940,6 @@
 				)
 			)
 		)
-		(path "/22e2cbd6-9707-4993-9226-fa5634f28d3b/7d0067f3-3812-4dfe-a53c-4d44fd8d0649")
 		(sheetname "PC104")
 		(sheetfile "PC104.kicad_sch")
 		(fp_line
@@ -73357,7 +73112,6 @@
 				)
 			)
 		)
-		(path "/27963e3f-6e0b-41be-92e9-40194960502e/253b445c-911f-423a-88d6-eca0b8ae714c")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -73745,7 +73499,6 @@
 				)
 			)
 		)
-		(path "/d128a0a3-5aeb-4d3d-b24d-f9ca1c853045/fa0ee26f-31e3-438a-9296-ecc01463df27")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -74035,7 +73788,6 @@
 				)
 			)
 		)
-		(path "/656609b0-f1de-46ae-97f2-99fc9dd3b234/7a7f819f-346d-47b8-bc5b-1268405736ac")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -74316,7 +74068,6 @@
 				)
 			)
 		)
-		(path "/0fc0f857-b689-43b9-837a-d22c2559d224/423a0c95-1e12-4e54-91f8-7683274973c3")
 		(sheetname "VBATTPrimary")
 		(sheetfile "VBATTPrimary.kicad_sch")
 		(fp_line
@@ -74649,7 +74400,6 @@
 				)
 			)
 		)
-		(path "/db2a85d8-8018-4bf9-b4d9-f09ab26c3d99/1a29f04f-2124-4da4-96cb-f3be50c44482")
 		(sheetname "VBATTSecondary")
 		(sheetfile "VBATTSecondary.kicad_sch")
 		(fp_line
