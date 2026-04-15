@@ -5897,7 +5897,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07bf07d3-ff2f-472b-976a-662b4d8f4188")
-		(property "Reference" "41601160116011601"
+		(property "Reference" "4"
 			(at 194.056 75.057 0)
 			(effects
 				(font
@@ -5915,7 +5915,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 191.77 76.2 0)
 			(effects
 				(font
@@ -6008,7 +6008,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "41601160116011601")
+					(reference "4")
 					(unit 1)
 				)
 			)
@@ -6023,7 +6023,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c4ede20-f0ca-437e-83d2-7601a59ad997")
-		(property "Reference" "RLED1605"
+		(property "Reference" "RLED1"
 			(at 108.204 131.064 0)
 			(effects
 				(font
@@ -6041,7 +6041,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "FP-CRCW0603-e3-IPC_B"
 			(at 106.68 142.24 0)
 			(effects
 				(font
@@ -6377,7 +6377,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1605")
+					(reference "RLED1")
 					(unit 1)
 				)
 			)
@@ -6392,7 +6392,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "243559ec-22c7-4833-8c98-7d75918b612b")
-		(property "Reference" "RLED1602"
+		(property "Reference" "RLED6"
 			(at 33.782 131.826 0)
 			(effects
 				(font
@@ -6410,7 +6410,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "RESC1608X55X25ML10T15"
 			(at 33.02 134.62 0)
 			(effects
 				(font
@@ -6646,7 +6646,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1602")
+					(reference "RLED6")
 					(unit 1)
 				)
 			)
@@ -6661,7 +6661,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "24d7ba04-14f9-421a-a0f2-b2654f9ad238")
-		(property "Reference" "#PWR01607"
+		(property "Reference" "#PWR?"
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -6708,7 +6708,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01607")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6723,7 +6723,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2592d00b-0535-40bc-914c-59d815fd0aee")
-		(property "Reference" "#PWR01617"
+		(property "Reference" "#PWR?"
 			(at 152.4 92.71 0)
 			(effects
 				(font
@@ -6770,7 +6770,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01617")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6785,7 +6785,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2699ef84-cc35-43bb-b55a-18f823566c20")
-		(property "Reference" "#PWR01610"
+		(property "Reference" "#PWR?"
 			(at 99.06 182.88 0)
 			(effects
 				(font
@@ -6832,7 +6832,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01610")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -6847,7 +6847,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "330ed3c4-5fca-484f-8c6d-442c89e1a6ba")
-		(property "Reference" "RLED1606"
+		(property "Reference" "RLED4"
 			(at 129.794 131.064 0)
 			(effects
 				(font
@@ -6865,7 +6865,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "FP-CRCW0603-e3-IPC_B"
 			(at 128.27 142.24 0)
 			(effects
 				(font
@@ -7201,7 +7201,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1606")
+					(reference "RLED4")
 					(unit 1)
 				)
 			)
@@ -7216,7 +7216,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "423f843d-5343-4b43-b9fa-1f80e1cf34d5")
-		(property "Reference" "VBATTS1601"
+		(property "Reference" "VBATTS1"
 			(at 221.996 75.057 0)
 			(effects
 				(font
@@ -7234,7 +7234,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 219.71 76.2 0)
 			(effects
 				(font
@@ -7327,7 +7327,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "VBATTS1601")
+					(reference "VBATTS1")
 					(unit 1)
 				)
 			)
@@ -7342,7 +7342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "431170a3-3a58-41c2-87c8-111e4bcc1b92")
-		(property "Reference" "LED1606"
+		(property "Reference" "LED3"
 			(at 134.112 146.304 0)
 			(effects
 				(font
@@ -7360,7 +7360,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 128.27 139.7 0)
 			(effects
 				(font
@@ -7726,7 +7726,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1606")
+					(reference "LED3")
 					(unit 1)
 				)
 			)
@@ -7741,7 +7741,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49f671fc-e063-40ac-98ee-2d48f8950dba")
-		(property "Reference" "#PWR01618"
+		(property "Reference" "#PWR?"
 			(at 191.77 158.75 0)
 			(effects
 				(font
@@ -7788,7 +7788,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01618")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -7803,7 +7803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54465ac4-cfb0-4d55-af1d-e079cf2e614b")
-		(property "Reference" "GND1601"
+		(property "Reference" "GND1"
 			(at 168.656 90.297 0)
 			(effects
 				(font
@@ -7821,7 +7821,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 166.37 91.44 0)
 			(effects
 				(font
@@ -7914,7 +7914,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "GND1601")
+					(reference "GND1")
 					(unit 1)
 				)
 			)
@@ -7929,7 +7929,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "572e54fe-469a-4dec-a5b7-4eca0ba6ef62")
-		(property "Reference" "RLED1601"
+		(property "Reference" "RLED3"
 			(at 13.462 131.826 0)
 			(effects
 				(font
@@ -7947,7 +7947,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "RESC1608X55X25ML10T15"
 			(at 12.7 134.62 0)
 			(effects
 				(font
@@ -8183,7 +8183,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1601")
+					(reference "RLED3")
 					(unit 1)
 				)
 			)
@@ -8198,7 +8198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c2bbdfc-6e20-4e10-b378-17a8c19eb3a1")
-		(property "Reference" "#PWR01619"
+		(property "Reference" "#PWR?"
 			(at 212.09 158.75 0)
 			(effects
 				(font
@@ -8245,7 +8245,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01619")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8260,7 +8260,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c5a258a-85c1-41d9-8ed3-d083a1afc19b")
-		(property "Reference" "LED1604"
+		(property "Reference" "LED2"
 			(at 87.122 146.304 0)
 			(effects
 				(font
@@ -8278,7 +8278,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 81.28 139.7 0)
 			(effects
 				(font
@@ -8644,7 +8644,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1604")
+					(reference "LED2")
 					(unit 1)
 				)
 			)
@@ -8659,7 +8659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "609e415d-058c-46fd-8f87-0cda2efe731c")
-		(property "Reference" "#PWR01606"
+		(property "Reference" "#PWR?"
 			(at 73.66 105.41 0)
 			(effects
 				(font
@@ -8706,7 +8706,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01606")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8721,7 +8721,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "61a30c5a-cf7b-4837-9c7f-c857eae9601d")
-		(property "Reference" "#PWR01603"
+		(property "Reference" "#PWR?"
 			(at 55.88 182.88 0)
 			(effects
 				(font
@@ -8768,7 +8768,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01603")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8783,7 +8783,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "663657a9-838a-497f-9414-d75c2cc8296f")
-		(property "Reference" "#PWR01616"
+		(property "Reference" "#PWR?"
 			(at 139.7 80.01 0)
 			(effects
 				(font
@@ -8830,7 +8830,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01616")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8845,7 +8845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "749772e2-33a9-4d6e-ae1e-8b0adbcc7ae4")
-		(property "Reference" "#PWR01601"
+		(property "Reference" "#PWR?"
 			(at 12.7 157.48 0)
 			(effects
 				(font
@@ -8892,7 +8892,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01601")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -8907,7 +8907,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "784c2cd8-1170-4798-a5e2-d4c39703166b")
-		(property "Reference" "51601160116011601"
+		(property "Reference" "5"
 			(at 168.91 67.31 0)
 			(effects
 				(font
@@ -8925,7 +8925,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 166.37 68.58 0)
 			(effects
 				(font
@@ -9018,7 +9018,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "51601160116011601")
+					(reference "5")
 					(unit 1)
 				)
 			)
@@ -9033,7 +9033,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7c1b4be5-2a15-4309-9de3-3cdb03bf14a2")
-		(property "Reference" "LED1603"
+		(property "Reference" "LED5"
 			(at 65.532 146.304 0)
 			(effects
 				(font
@@ -9051,7 +9051,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 59.69 139.7 0)
 			(effects
 				(font
@@ -9417,7 +9417,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1603")
+					(reference "LED5")
 					(unit 1)
 				)
 			)
@@ -9432,7 +9432,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d014d31-e741-489a-92b7-cb85438e5194")
-		(property "Reference" "#PWR01620"
+		(property "Reference" "#PWR?"
 			(at 214.63 127 0)
 			(effects
 				(font
@@ -9479,7 +9479,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01620")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -9494,7 +9494,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7e7817d2-d499-4b7b-9762-fe2bb57d501a")
-		(property "Reference" "21601160116011601"
+		(property "Reference" "2"
 			(at 194.056 82.677 0)
 			(effects
 				(font
@@ -9512,7 +9512,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 191.77 83.82 0)
 			(effects
 				(font
@@ -9605,7 +9605,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "21601160116011601")
+					(reference "2")
 					(unit 1)
 				)
 			)
@@ -9620,7 +9620,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80e954a5-5e6f-40fa-9056-54c935dd712d")
-		(property "Reference" "VBATTP1601"
+		(property "Reference" "VBATTP1"
 			(at 221.996 67.437 0)
 			(effects
 				(font
@@ -9638,7 +9638,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 219.71 68.58 0)
 			(effects
 				(font
@@ -9731,7 +9731,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "VBATTP1601")
+					(reference "VBATTP1")
 					(unit 1)
 				)
 			)
@@ -9746,7 +9746,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "841e83a0-00e7-4207-8791-1d5688f5a948")
-		(property "Reference" "VBATT1601"
+		(property "Reference" "VBATT1"
 			(at 221.996 82.677 0)
 			(effects
 				(font
@@ -9764,7 +9764,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 219.71 83.82 0)
 			(effects
 				(font
@@ -9857,7 +9857,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "VBATT1601")
+					(reference "VBATT1")
 					(unit 1)
 				)
 			)
@@ -9872,7 +9872,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "847b543c-1b5e-4374-bb7d-ab3966ba8474")
-		(property "Reference" "#PWR01614"
+		(property "Reference" "#PWR?"
 			(at 134.62 82.55 0)
 			(effects
 				(font
@@ -9919,7 +9919,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01614")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -9934,7 +9934,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8d137c68-cf24-44f6-96ea-63a8280ee8d8")
-		(property "Reference" "11601160116011601"
+		(property "Reference" "1"
 			(at 168.656 82.677 0)
 			(effects
 				(font
@@ -9952,7 +9952,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 166.37 83.82 0)
 			(effects
 				(font
@@ -10045,7 +10045,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "11601160116011601")
+					(reference "1")
 					(unit 1)
 				)
 			)
@@ -10060,7 +10060,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8e91d8dd-501e-4a87-8bc7-bdaf0b6c44ca")
-		(property "Reference" "J1601"
+		(property "Reference" "J1"
 			(at 76.2 172.72 0)
 			(effects
 				(font
@@ -10078,7 +10078,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FTSH-105-01-X-DV-K-P-X:SAMTEC_FTSH-105-01-X-DV-K-P-X"
+		(property "Footprint" "FP-FTSH-105-01-L-DV-K-P-T-MFG"
 			(at 88.9 177.8 0)
 			(effects
 				(font
@@ -10238,7 +10238,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "J1601")
+					(reference "J1")
 					(unit 2)
 				)
 			)
@@ -10253,7 +10253,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "910e19bc-a436-49cd-b54a-34435c1ff9dd")
-		(property "Reference" "#PWR01612"
+		(property "Reference" "#PWR?"
 			(at 128.27 157.48 0)
 			(effects
 				(font
@@ -10300,7 +10300,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01612")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -10315,7 +10315,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "935be5c7-e889-438f-988d-8e14eb962f7a")
-		(property "Reference" "RLED1603"
+		(property "Reference" "RLED2"
 			(at 60.452 131.826 0)
 			(effects
 				(font
@@ -10333,7 +10333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "RESC1608X55X30NL20T20"
 			(at 57.15 134.62 0)
 			(effects
 				(font
@@ -10389,7 +10389,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1603")
+					(reference "RLED2")
 					(unit 1)
 				)
 			)
@@ -10404,7 +10404,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "998c7beb-6982-4023-9aa0-8f28cf248893")
-		(property "Reference" "LED1601"
+		(property "Reference" "LED4"
 			(at 18.542 146.304 0)
 			(effects
 				(font
@@ -10422,7 +10422,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 12.7 139.7 0)
 			(effects
 				(font
@@ -10788,7 +10788,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1601")
+					(reference "LED4")
 					(unit 1)
 				)
 			)
@@ -10803,7 +10803,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ad83179-f52d-47dd-aa27-c3f5098ad2a3")
-		(property "Reference" "#PWR01611"
+		(property "Reference" "#PWR?"
 			(at 106.68 157.48 0)
 			(effects
 				(font
@@ -10850,7 +10850,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01611")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -10865,7 +10865,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ae45b00-420f-425c-a01e-84d5e3a86dec")
-		(property "Reference" "LED1602"
+		(property "Reference" "LED1"
 			(at 38.862 146.304 0)
 			(effects
 				(font
@@ -10883,7 +10883,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 33.02 139.7 0)
 			(effects
 				(font
@@ -11249,7 +11249,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1602")
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -11264,7 +11264,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a764d4f4-e634-4309-ac8e-bca08c3c4bd1")
-		(property "Reference" "#PWR01608"
+		(property "Reference" "#PWR?"
 			(at 77.47 59.69 0)
 			(effects
 				(font
@@ -11311,7 +11311,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01608")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -11326,7 +11326,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bac590d6-1e32-4e87-84ef-40c2a2e3e421")
-		(property "Reference" "#PWR01615"
+		(property "Reference" "#PWR?"
 			(at 135.89 102.87 0)
 			(effects
 				(font
@@ -11373,7 +11373,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01615")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -11388,7 +11388,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c461021a-12c5-4615-8640-7e23df5866a0")
-		(property "Reference" "J1601"
+		(property "Reference" "J1"
 			(at 25.4 172.72 0)
 			(effects
 				(font
@@ -11406,7 +11406,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FTSH-105-01-X-DV-K-P-X:SAMTEC_FTSH-105-01-X-DV-K-P-X"
+		(property "Footprint" "FP-FTSH-105-01-L-DV-K-P-T-MFG"
 			(at 38.1 177.8 0)
 			(effects
 				(font
@@ -11566,7 +11566,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "J1601")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -11581,7 +11581,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6137190-c04a-4f8f-afcd-2b2ae56bdfea")
-		(property "Reference" "SW1601"
+		(property "Reference" "SW3"
 			(at 196.596 142.748 0)
 			(effects
 				(font
@@ -11600,7 +11600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TS04-66-43-BK-100-SMT:SW_TS04-66-43-BK-100-SMT"
+		(property "Footprint" "SOP127P600-8N"
 			(at 194.31 146.05 0)
 			(effects
 				(font
@@ -11692,7 +11692,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "SW1601")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -11707,7 +11707,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c82c6e58-099f-4416-ad08-f9ae42901704")
-		(property "Reference" "H1601"
+		(property "Reference" "H1"
 			(at 32.766 41.656 0)
 			(effects
 				(font
@@ -11725,7 +11725,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SSQ-126-X-G-D:SAMTEC_SSQ-126-X-G-D"
+		(property "Footprint" "SMTC-SSQ-126-22-X-D"
 			(at 33.02 110.49 0)
 			(effects
 				(font
@@ -12081,7 +12081,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "H1601")
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -12096,7 +12096,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce3e32fc-410b-4897-9801-70d7817db65c")
-		(property "Reference" "P1601"
+		(property "Reference" "P1"
 			(at 194.056 119.126 0)
 			(effects
 				(font
@@ -12114,7 +12114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SSQ-126-X-G-D:SAMTEC_SSQ-126-X-G-D"
+		(property "Footprint" "22-28-4036-Footprint-1"
 			(at 194.31 129.54 0)
 			(effects
 				(font
@@ -12253,7 +12253,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "P1601")
+					(reference "P1")
 					(unit 1)
 				)
 			)
@@ -12268,7 +12268,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d2c941f1-bc66-4c3e-b8e2-aaab72b53f7b")
-		(property "Reference" "31601160116011601"
+		(property "Reference" "3"
 			(at 168.656 75.057 0)
 			(effects
 				(font
@@ -12286,7 +12286,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 166.37 76.2 0)
 			(effects
 				(font
@@ -12379,7 +12379,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "31601160116011601")
+					(reference "3")
 					(unit 1)
 				)
 			)
@@ -12394,7 +12394,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4beb501-d4dc-49a7-85c5-e979a1023a33")
-		(property "Reference" "#PWR01605"
+		(property "Reference" "#PWR?"
 			(at 71.12 80.01 0)
 			(effects
 				(font
@@ -12441,7 +12441,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01605")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -12456,7 +12456,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d775ffc5-bda7-476e-9377-ca2aa2d47c76")
-		(property "Reference" "H1602"
+		(property "Reference" "H2"
 			(at 98.806 41.656 0)
 			(effects
 				(font
@@ -12474,7 +12474,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SSQ-126-X-G-D:SAMTEC_SSQ-126-X-G-D"
+		(property "Footprint" "SMTC-SSQ-126-22-X-D"
 			(at 99.06 110.49 0)
 			(effects
 				(font
@@ -12830,7 +12830,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "H1602")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -12845,7 +12845,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db43c22a-424d-4e84-bb87-a91929417ea5")
-		(property "Reference" "RLED1604"
+		(property "Reference" "RLED5"
 			(at 82.042 131.826 0)
 			(effects
 				(font
@@ -12863,7 +12863,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "RESC1608X55X30NL20T20"
 			(at 78.74 134.62 0)
 			(effects
 				(font
@@ -12919,7 +12919,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "RLED1604")
+					(reference "RLED5")
 					(unit 1)
 				)
 			)
@@ -12934,7 +12934,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "db6ee3d3-6069-44b7-9633-f1a544119dc1")
-		(property "Reference" "#PWR01602"
+		(property "Reference" "#PWR?"
 			(at 33.02 157.48 0)
 			(effects
 				(font
@@ -12981,7 +12981,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01602")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -12996,7 +12996,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "de8c8d48-cd2b-4e95-8450-48519c26fb4e")
-		(property "Reference" "#PWR01613"
+		(property "Reference" "#PWR?"
 			(at 132.08 59.69 0)
 			(effects
 				(font
@@ -13043,7 +13043,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01613")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -13058,7 +13058,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5b6e290-b9e8-4dae-ab0d-e1e2d34e7bde")
-		(property "Reference" "LED1605"
+		(property "Reference" "LED6"
 			(at 112.522 146.304 0)
 			(effects
 				(font
@@ -13076,7 +13076,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "LED_APTL3216CGCK:LED_APTL3216CGCK"
+		(property "Footprint" "FP-HSMS-C150-MFG"
 			(at 106.68 139.7 0)
 			(effects
 				(font
@@ -13442,7 +13442,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "LED1605")
+					(reference "LED6")
 					(unit 1)
 				)
 			)
@@ -13457,7 +13457,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e72896a9-f47c-4950-81db-1fc14dca53da")
-		(property "Reference" "#PWR01604"
+		(property "Reference" "#PWR?"
 			(at 59.69 157.48 0)
 			(effects
 				(font
@@ -13504,7 +13504,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01604")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
@@ -13519,7 +13519,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7786edb-62db-4c32-822c-e40dd82ae96b")
-		(property "Reference" "C1601"
+		(property "Reference" "C22"
 			(at 214.884 151.892 0)
 			(effects
 				(font
@@ -13537,7 +13537,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "FP-C0603-CJ-MFG"
 			(at 212.09 148.59 0)
 			(effects
 				(font
@@ -13853,7 +13853,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "C1601")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -13868,7 +13868,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f1f1aecb-3e8d-4bad-889d-5782fa3dab80")
-		(property "Reference" "61601160116011601"
+		(property "Reference" "6"
 			(at 194.056 67.437 0)
 			(effects
 				(font
@@ -13886,7 +13886,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
+		(property "Footprint" "TP06R"
 			(at 191.77 68.58 0)
 			(effects
 				(font
@@ -13979,7 +13979,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "61601160116011601")
+					(reference "6")
 					(unit 1)
 				)
 			)
@@ -13994,7 +13994,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f52c4100-22b1-4a69-bdaf-774ad8e43200")
-		(property "Reference" "#PWR01609"
+		(property "Reference" "#PWR?"
 			(at 81.28 157.48 0)
 			(effects
 				(font
@@ -14041,7 +14041,7 @@
 		(instances
 			(project ""
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/d66c5d8e-9670-475d-9238-e0f8632b7bdc"
-					(reference "#PWR01609")
+					(reference "#PWR?")
 					(unit 1)
 				)
 			)
