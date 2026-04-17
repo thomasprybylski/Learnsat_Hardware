@@ -53749,7 +53749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08acb63e-25ab-4be6-aa00-b17a10159e0d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR044"
 			(at 154.94 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -53806,7 +53806,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -54225,7 +54225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21ce3407-748e-4e15-8cb0-ddbe97f46520")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR043"
 			(at 144.78 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -54282,7 +54282,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -54501,7 +54501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30f7065a-7e2b-4aea-bb24-ef18962e90dc")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR040"
 			(at 121.92 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -54558,7 +54558,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -54857,7 +54857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53022a83-c6f2-4cde-8687-1910671d2731")
-		(property "Reference" "Q12"
+		(property "Reference" "Q14"
 			(at 116.84 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55086,7 +55086,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "Q12")
+					(reference "Q14")
 					(unit 1)
 				)
 			)
@@ -56361,7 +56361,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b59c1499-5fd0-400d-854c-78aaa3c6d107")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR045"
 			(at 162.56 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -56418,7 +56418,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -56678,7 +56678,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c16d6484-ecc0-4110-94e4-b6fdc05d6dd4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR042"
 			(at 139.7 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -56735,7 +56735,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -57466,7 +57466,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e051de0d-fa20-47f5-b689-e317f3baa46c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR041"
 			(at 129.54 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -57523,7 +57523,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/55f06696-b2d9-4c25-98ea-711c3045af0d"
-					(reference "#PWR?")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)

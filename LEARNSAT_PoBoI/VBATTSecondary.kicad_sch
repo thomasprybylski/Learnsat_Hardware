@@ -54630,7 +54630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "670e5add-7b8e-49e2-91dd-30238be5b3ca")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR046"
 			(at 121.92 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -54687,7 +54687,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/6d33a96a-6770-4a1c-91f6-f6b7ad465c75"
-					(reference "#PWR?")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -54930,7 +54930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "705e493c-94e4-4eb0-ae24-633cdc3ec1de")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR048"
 			(at 144.78 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -54987,7 +54987,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/6d33a96a-6770-4a1c-91f6-f6b7ad465c75"
-					(reference "#PWR?")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -55851,7 +55851,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "962de481-bee2-45cb-b781-8c34fbc75c4b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR050"
 			(at 162.56 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -55908,7 +55908,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/6d33a96a-6770-4a1c-91f6-f6b7ad465c75"
-					(reference "#PWR?")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -56318,7 +56318,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b043d6c5-17d7-4ce3-a16c-9e8b8aa01e2e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR049"
 			(at 154.94 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -56375,7 +56375,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/6d33a96a-6770-4a1c-91f6-f6b7ad465c75"
-					(reference "#PWR?")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -57813,7 +57813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fd8a2e90-b7b6-48f2-848c-2631dd5c4feb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR047"
 			(at 129.54 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -57870,7 +57870,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/6d33a96a-6770-4a1c-91f6-f6b7ad465c75"
-					(reference "#PWR?")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
