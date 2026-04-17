@@ -53547,7 +53547,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAPC1608X90X35ML15T15"
+		(property "Footprint" "Vault:CAPC1608X90X35ML15T15"
 			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -53846,7 +53846,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 76.2 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -54047,7 +54047,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 60.96 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -54323,7 +54323,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
+		(property "Footprint" "Vault:FP-CRCW1210-e3-IPC_C"
 			(at 129.54 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -54597,7 +54597,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-UD-12-05-08-1855-IPC_A"
+		(property "Footprint" "Vault:FP-UD-12-05-08-1855-IPC_A"
 			(at 96.52 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -54879,7 +54879,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Vishay_S17-0173-SINGLE_MFG"
+		(property "Footprint" "Vault:Vishay_S17-0173-SINGLE_MFG"
 			(at 121.92 127 0)
 			(hide yes)
 			(show_name no)
@@ -55126,7 +55126,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC1005X40X25ML05T05"
+		(property "Footprint" "Vault:RESC1005X40X25ML05T05"
 			(at 76.2 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -55326,7 +55326,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SI5418DU-T1-GE3-Footprint-1"
+		(property "Footprint" "Vault:SI5418DU-T1-GE3-Footprint-1"
 			(at 162.56 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -55589,7 +55589,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CR0603-IPC_A"
+		(property "Footprint" "Vault:FP-CR0603-IPC_A"
 			(at 76.2 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -55790,7 +55790,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 78.74 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -55991,7 +55991,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CSR1206-IPC_C"
+		(property "Footprint" "Vault:FP-CSR1206-IPC_C"
 			(at 60.96 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -56457,7 +56457,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-DCN0008A-IPC_A"
+		(property "Footprint" "Vault:FP-DCN0008A-IPC_A"
 			(at 93.98 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -56776,7 +56776,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAPC1608X90X40LL10T20"
+		(property "Footprint" "Vault:CAPC1608X90X40LL10T20"
 			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -57002,7 +57002,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
+		(property "Footprint" "Vault:FP-CRCW1210-e3-IPC_C"
 			(at 139.7 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -57203,7 +57203,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Vault:ONSC-SOD-323-2-477-02_V"
 			(at 165.1 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -57563,7 +57563,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-C0805C-DN-IPC_A"
+		(property "Footprint" "Vault:FP-C0805C-DN-IPC_A"
 			(at 137.16 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -57789,7 +57789,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0603X26X15NL03T05"
+		(property "Footprint" "Vault:RESC0603X26X15NL03T05"
 			(at 76.2 139.7 0)
 			(hide yes)
 			(show_name no)

@@ -45201,7 +45201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02a72a59-1f34-4a84-9d6c-3d2aaff6a3b6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR093"
 			(at 139.7 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -45258,7 +45258,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -45298,7 +45298,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
+		(property "Footprint" "Vault:FP-CRCW1210-e3-IPC_C"
 			(at 129.54 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -45476,7 +45476,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c8279f2-de0f-4eb9-84f1-213909a8df53")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR095"
 			(at 154.94 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -45533,7 +45533,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -45550,7 +45550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1392afb2-1b54-4b4f-88fe-6cff0538f543")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR091"
 			(at 121.92 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -45607,7 +45607,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -45646,7 +45646,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Vishay_S17-0173-SINGLE_MFG"
+		(property "Footprint" "Vault:Vishay_S17-0173-SINGLE_MFG"
 			(at 121.92 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -45894,7 +45894,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CRCW1206-e3-IPC_A"
+		(property "Footprint" "Vault:FP-CRCW1206-e3-IPC_A"
 			(at 76.2 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -46096,7 +46096,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-RT1206-IPC_C"
+		(property "Footprint" "Vault:FP-RT1206-IPC_C"
 			(at 76.2 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -46298,7 +46298,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAPC1608X90X35ML15T15"
+		(property "Footprint" "Vault:CAPC1608X90X35ML15T15"
 			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -46523,7 +46523,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 60.96 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -46723,7 +46723,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-UD-12-05-08-1855-IPC_A"
+		(property "Footprint" "Vault:FP-UD-12-05-08-1855-IPC_A"
 			(at 96.52 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -47006,7 +47006,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CRCW1210-e3-IPC_C"
+		(property "Footprint" "Vault:FP-CRCW1210-e3-IPC_C"
 			(at 139.7 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -47184,7 +47184,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "618b5f5a-c7d0-4bdd-b095-acec80f61415")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR094"
 			(at 144.78 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -47241,7 +47241,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -47258,7 +47258,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61df5faf-3c14-4643-828c-cd42e7bf2c65")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR096"
 			(at 162.56 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -47315,7 +47315,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -47354,7 +47354,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-DCN0008A-IPC_A"
+		(property "Footprint" "Vault:FP-DCN0008A-IPC_A"
 			(at 93.98 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -47598,7 +47598,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 78.74 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -47776,7 +47776,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "74086ec6-d458-4c49-825e-4e0e1adb6682")
-		(property "Reference" "D23"
+		(property "Reference" "D27"
 			(at 165.1 160.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47799,7 +47799,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "ONSC-SOD-323-2-477-02_V"
+		(property "Footprint" "Vault:ONSC-SOD-323-2-477-02_V"
 			(at 165.1 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -48045,7 +48045,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "D23")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -48086,7 +48086,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-PTN0603-IPC_B"
+		(property "Footprint" "Vault:FP-PTN0603-IPC_B"
 			(at 76.2 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -48286,7 +48286,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SI5418DU-T1-GE3-Footprint-1"
+		(property "Footprint" "Vault:SI5418DU-T1-GE3-Footprint-1"
 			(at 162.56 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -48548,7 +48548,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-CSR1206-IPC_C"
+		(property "Footprint" "Vault:FP-CSR1206-IPC_C"
 			(at 60.96 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -48941,7 +48941,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RESC0402(1005)_L"
+		(property "Footprint" "Vault:RESC0402(1005)_L"
 			(at 76.2 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -49119,7 +49119,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6e98a7c-352e-40b2-bd8c-843bd034f7f3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR092"
 			(at 129.54 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -49176,7 +49176,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/7afe09a5-989f-4cf0-b7aa-6eaacc747d01"
-					(reference "#PWR?")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -49216,7 +49216,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "FP-C0805C-DN-IPC_A"
+		(property "Footprint" "Vault:FP-C0805C-DN-IPC_A"
 			(at 137.16 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -49441,7 +49441,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CAPC1608X90X40LL10T20"
+		(property "Footprint" "Vault:CAPC1608X90X40LL10T20"
 			(at 81.28 76.2 0)
 			(hide yes)
 			(show_name no)
