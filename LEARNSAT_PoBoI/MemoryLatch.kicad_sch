@@ -542,7 +542,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5c179ac-6cc1-4d2a-9c14-b1f0f7df3951")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0109"
 			(at 81.28 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -599,7 +599,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/af482a7d-1f10-48c9-bdaf-5889a5ffb8a7"
-					(reference "#PWR?")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -616,7 +616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5fb35a6-57aa-4668-9e5d-2995abdb58d7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0110"
 			(at 137.16 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -673,7 +673,7 @@
 		(instances
 			(project "LEARNSAT_POBOY_v3.2.0"
 				(path "/31302da5-a970-4b2b-aa05-afcd06cb9d09/af482a7d-1f10-48c9-bdaf-5889a5ffb8a7"
-					(reference "#PWR?")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -712,7 +712,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "DCK0006A_M"
+		(property "Footprint" "Vault:DCK0006A_M"
 			(at 109.22 104.14 0)
 			(hide yes)
 			(show_name no)
