@@ -6450,8 +6450,16 @@
 		(uuid "419f3bf0-5dd8-45bd-8115-c694ce5a0860")
 	)
 	(no_connect
+		(at 88.9 88.9)
+		(uuid "4d49fed4-6a5e-4f02-96cc-b32f352abcb3")
+	)
+	(no_connect
 		(at 53.34 149.86)
 		(uuid "57ea10c5-98d5-4091-895e-110bec985486")
+	)
+	(no_connect
+		(at 88.9 91.44)
+		(uuid "6c4c44d2-c07e-4d79-8189-9f561b75c0f4")
 	)
 	(no_connect
 		(at 30.48 91.44)
@@ -6462,8 +6470,16 @@
 		(uuid "7cd35e6f-0a98-414d-95e2-eb7e6044f0c2")
 	)
 	(no_connect
+		(at 88.9 86.36)
+		(uuid "95127bfb-9452-4016-9def-7e75033b1b6e")
+	)
+	(no_connect
 		(at 30.48 106.68)
 		(uuid "9aaba004-bc4c-469a-9007-367550fbf329")
+	)
+	(no_connect
+		(at 88.9 93.98)
+		(uuid "bcd7f2bd-b887-4caf-a0b9-32f9283689c7")
 	)
 	(no_connect
 		(at 55.88 91.44)
@@ -7943,16 +7959,6 @@
 		)
 		(uuid "b0897c64-29af-4076-998d-6254946b8517")
 	)
-	(label ""
-		(at 149.86 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b75174d6-b642-4bba-a386-ba5cee4b84e3")
-	)
 	(label "STM_SCL"
 		(at 88.9 63.5 0)
 		(effects
@@ -8751,30 +8757,6 @@
 			)
 		)
 	)
-	(global_label "Solar_TELEM_2"
-		(shape input)
-		(at 88.9 88.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7dde4d29-e8ec-4cc2-b3a5-cc613d3e8874")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.0661 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "UART_RX"
 		(shape input)
 		(at 88.9 116.84 180)
@@ -9207,30 +9189,6 @@
 			)
 		)
 	)
-	(global_label "Solar_TELEM_1"
-		(shape input)
-		(at 88.9 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c8cdaf8c-731b-4e1a-a6f1-bb8d8503c80c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.0661 86.36 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "5V_stmDisableS"
 		(shape input)
 		(at 12.7 83.82 180)
@@ -9375,30 +9333,6 @@
 			)
 		)
 	)
-	(global_label "Solar_TELEM_4"
-		(shape input)
-		(at 88.9 93.98 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f0ec0eac-dde1-46fc-b6a3-f2f2346f079a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.0661 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "5V_EnableS"
 		(shape input)
 		(at 66.04 83.82 0)
@@ -9436,30 +9370,6 @@
 		(uuid "f2f3e4c4-690a-4ca9-a461-6dc7119147fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 78.7788 96.52 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Solar_TELEM_3"
-		(shape input)
-		(at 88.9 91.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fa18fdda-d5a5-4a81-b405-1153f3f94db4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 72.0661 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
