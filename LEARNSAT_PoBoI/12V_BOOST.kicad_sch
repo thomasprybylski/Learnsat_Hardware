@@ -2311,7 +2311,7 @@
 		)
 		(uuid "ff64b073-df28-4d74-ba97-3fe4f2bccaa2")
 	)
-	(global_label "???"
+	(global_label "12V"
 		(shape input)
 		(at 149.86 58.42 0)
 		(fields_autoplaced yes)
@@ -2323,7 +2323,7 @@
 		)
 		(uuid "60e8e673-b7e4-48ac-8d85-38542528868d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.111 58.42 0)
+			(at 156.3528 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2383,7 +2383,7 @@
 			)
 		)
 	)
-	(global_label "???"
+	(global_label "12V"
 		(shape input)
 		(at 154.94 144.78 0)
 		(fields_autoplaced yes)
@@ -2395,7 +2395,7 @@
 		)
 		(uuid "83253f37-634c-4a43-8478-43674cc6e846")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.191 144.78 0)
+			(at 161.4328 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

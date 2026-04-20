@@ -6301,6 +6301,16 @@
 		)
 		(uuid "21c2a2b0-5c5a-4e5a-957a-6bd8a39ae61f")
 	)
+	(text "NEED TO ADD 12V COMPATIBILITY"
+		(exclude_from_sim no)
+		(at 45.72 135.382 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+			)
+		)
+		(uuid "5ed23397-d7d5-48db-9c4b-463e9dc78cc8")
+	)
 	(text_box "Divides voltage from single cell with V*(3/4.1) transfer function"
 		(exclude_from_sim no)
 		(at 99.06 187.96 0)

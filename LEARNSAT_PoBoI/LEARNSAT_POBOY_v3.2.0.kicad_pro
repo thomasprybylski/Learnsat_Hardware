@@ -1816,69 +1816,73 @@
         "uuid": "31302da5-a970-4b2b-aa05-afcd06cb9d09"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D28,#PWR131-136,C54-56,Q15-16,R79-87,U31-32",
     "variants": []
   },
   "sheets": [
     [
+      "cdd253ed-0c43-47cc-b82d-df1603e1137a",
+      "12V SECONDARY"
+    ],
+    [
       "2029a850-3e48-491b-a9aa-1537ac8442d4",
-      ""
+      "12 PRIMARY"
     ],
     [
       "0fb1b4e6-2835-46e5-a731-d5a5d61ae98c",
-      ""
+      "12V BOOST"
     ],
     [
       "9cfff8c1-41d5-443e-a4f1-1edb2a27fa2d",
-      ""
+      "STM32"
     ],
     [
       "9724113b-8f83-448f-99ae-c96db2fb53ca",
-      ""
+      "TVS_DIODES"
     ],
     [
       "55f06696-b2d9-4c25-98ea-711c3045af0d",
-      ""
+      "VBATT PRIMARY"
     ],
     [
       "6d33a96a-6770-4a1c-91f6-f6b7ad465c75",
-      ""
+      "VBATT SECONDARY"
     ],
     [
       "24205a11-7394-4676-a8e1-3f02d7a9d0eb",
-      ""
+      "WATCHDOG"
     ],
     [
       "bc22755d-66f1-468a-8d60-f94991e2bf6e",
-      ""
+      "3V3 PRIMARY"
     ],
     [
       "a1860061-8193-4c1d-812f-13791385bd89",
-      ""
+      "3V3 SECONDARY"
     ],
     [
       "16e811dd-cb12-4b95-9c1f-bd0974340f3e",
-      ""
+      "3V3 BUCK"
     ],
     [
       "f2874a5c-bf0c-4149-b3d2-1179c2685763",
-      ""
+      "5V PRIMARY"
     ],
     [
       "7afe09a5-989f-4cf0-b7aa-6eaacc747d01",
-      ""
+      "5V SECONDARY"
     ],
     [
       "e23bbc96-0550-4d6b-8bf1-525b54cf76b2",
-      ""
+      "5V BUCK"
     ],
     [
       "af482a7d-1f10-48c9-bdaf-5889a5ffb8a7",
-      ""
+      "MEMORY LATCH"
     ],
     [
       "d66c5d8e-9670-475d-9238-e0f8632b7bdc",
-      ""
+      "PC104"
     ],
     [
       "31302da5-a970-4b2b-aa05-afcd06cb9d09",
